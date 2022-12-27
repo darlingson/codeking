@@ -263,7 +263,7 @@ class file_writer:
         #     }
         json_object = json.dumps(article_dictionary, indent = 4)
         # Writing to sample.json
-        with open("D:\\fullsample.json", "a") as outfile:
+        with open("fullsample.json", "a") as outfile:
             outfile.write(json_object)
 
 

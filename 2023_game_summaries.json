@@ -1,3 +1,8 @@
-summaries{
-game{}
+{summaries : [
+  { 'home':"Ekwendeni Hammers",
+   'away': "Silver Strikers",
+   'final score': {'home' :1,'away':3},
+   'scorers':{"Magareta M.(8)", "Davie S.(61)","Macheso P.(80)","Nyondo A.(86)"}
+  },
+]
 }

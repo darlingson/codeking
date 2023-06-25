@@ -1,0 +1,114 @@
+[
+  {
+    "Team": "Bangwe All Stars",
+    "abbreviation": "BAS FC",
+    "Location": "Blantyre",
+    "Stadium": "Mpira Stadium",
+    "Capacity": "6,244"
+  },
+  {
+    "Team": "Blue Eagles",
+    "abbreviation": "BE FC",
+    "Location": "Lilongwe",
+    "Stadium": "Nankhaka Stadium",
+    "Capacity": "5,000"
+  },
+  {
+    "Team": "Chitipa United",
+    "abbreviation": "CU FC",
+    "Location": "Karonga",
+    "Stadium": "Karonga Stadium",
+    "Capacity": "20,000"
+  },
+  {
+    "Team": "Civil Service United",
+    "abbreviation": "Civo",
+    "Location": "Lilongwe",
+    "Stadium": "Civo Stadium",
+    "Capacity": "25,000"
+  },
+  {
+    "Team": "Dedza Dynamos",
+    "abbreviation": "DD FC",
+    "Location": "Dedza",
+    "Stadium": "Dedza Stadium",
+    "Capacity": "6,000"
+  },
+  {
+    "Team": "Ekwendeni Hammers",
+    "abbreviation": "EH FC",
+    "Location": "Mzuzu",
+    "Stadium": "Mzuzu Stadium",
+    "Capacity": "15,000"
+  },
+  {
+    "Team": "Extreme",
+    "abbreviation": "EFC",
+    "Location": "Lilongwe",
+    "Stadium": "Civo Stadium",
+    "Capacity": "25,000"
+  },
+  {
+    "Team": "Kamuzu Barracks",
+    "abbreviation": "KB FC",
+    "Location": "Lilongwe",
+    "Stadium": "Civo Stadium",
+    "Capacity": "25,000"
+  },
+  {
+    "Team": "Karonga United",
+    "abbreviation": "KU FC",
+    "Location": "Karonga",
+    "Stadium": "Karonga Stadium",
+    "Capacity": "20,000"
+  },
+  {
+    "Team": "MAFCO",
+    "abbreviation": "MAFCO",
+    "Location": "Nkhotakota",
+    "Stadium": "Chitowe Stadium",
+    "Capacity": "1,000"
+  },
+  {
+    "Team": "Mighty Tigers",
+    "abbreviation": "Tigers",
+    "Location": "Nchalo",
+    "Stadium": "Kalulu Stadium",
+    "Capacity": "3,000"
+  },
+  {
+    "Team": "Mighty Wanderers",
+    "abbreviation": "MW FC",
+    "Location": "Blantyre",
+    "Stadium": "Kamuzu Stadium",
+    "Capacity": "65,000"
+  },
+  {
+    "Team": "Moyale Barracks",
+    "abbreviation": "Moyale",
+    "Location": "Mzuzu",
+    "Stadium": "Mzuzu Stadium",
+    "Capacity": "15,000"
+  },
+  {
+    "Team": "Nyasa Big Bullets",
+    "abbreviation": "BB FC",
+    "Location": "Blantyre",
+    "Stadium": "Kamuzu Stadium",
+    "Capacity": "65,000"
+  },
+  {
+    "Team": "Red Lions",
+    "abbreviation": "Lions",
+    "Location": "Balaka",
+    "Stadium": "Balaka Stadium",
+    "Capacity": "3,000"
+  },
+  {
+    "Team": "Silver Strikers",
+    "abbreviation": "Silva",
+    "Location": "Lilongwe",
+    "Stadium": "Bingu National Stadium",
+    "Capacity": "41,100"
+  }
+]

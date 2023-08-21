@@ -1,0 +1,378 @@
+Saturday 11/11/2023
+01:00,Mighty Tigers,,-,,Moyale Barracks
+01:00,CIVO United ,- ,Red Lions
+01:00,Ekwendeni Hammers,-,Extreme
+01:00,Bangwe All Stars,-,Chitipa United
+Sunday 12/11/2023
+01:00,Karonga United,-,Silver Strikers
+01:00.Dedza Dynamos,- ,Mighty Wanderers
+01:00,Blue Eagles, - ,MAFCO
+01:00,Nyasa Big Bullets,- ,Kamuzu Barracks
+
+Sunday 22/10/2023
+00:00,Mighty Wanderers,-, Mighty Tigers
+
+Saturday 28/10/2023
+00:00,Red Lions,- ,Nyasa Big Bullets
+Saturday 04/11/2023
+01:00,Nyasa Big Bullets,- ,Chitipa United
+01:00,Red Lions,- ,Bangwe All Stars
+01:00,Extreme, - ,Blue Eagles
+01:00,Ekwendeni Hammers,- ,Mighty Tigers
+Sunday 05/11/2023
+01:00,CIVO United, - ,Dedza Dynamos
+01:00,Moyale Barracks, - ,MAFCO
+01:00,Mighty Wanderers, - ,Karonga United
+01:00,Silver Strikers, - ,Kamuzu Barracks
+
+Sunday 15/10/2023
+00:00,Chitipa United,- ,Red Lions
+00:00,Mighty Wanderers, - ,Extreme
+00:00,Dedza Dynamos, - ,Moyale Barracks
+Saturday 21/10/2023
+00:00,MAFCO, - ,CIVO United
+00:00,Kamuzu Barracks, - ,Extreme
+00:00,Bangwe All Stars, - ,Karonga United
+00:00,Moyale Barracks,- ,Nyasa Big Bullets
+00:00,Chitipa United, - ,Blue Eagles
+Sunday 22/10/2023
+00:00,Dedza Dynamos, - ,Red Lions
+00:00,Silver Strikers ,- ,Ekwendeni Hammers
+
+Sunday 08/10/2023
+00:00,Red Lions ,- ,Kamuzu Barracks
+00:00,CIVO United, - ,Karonga United
+00:00,Dedza Dynamos, - ,Blue Eagles
+00:00,Mighty Wanderers,- ,Moyale Barracks
+00:00,Extreme, - ,Chitipa United
+
+Saturday 14/10/2023
+00:00,Ekwendeni Hammers, - ,Nyasa Big Bullets
+00:00,Mighty Tigers, - ,Karonga United
+00:00,Bangwe All Stars ,- ,Kamuzu Barracks
+00:00,MAFCO, - ,Silver Strikers
+Sunday 15/10/2023
+00:00,CIVO United, - ,Blue Eagles
+
+
+Saturday 30/09/2023
+00:00,Red Lions ,- ,Ekwendeni Hammers
+00:00,Silver Strikers, - ,Mighty Wanderers
+00:00,Moyale Barracks, - ,CIVO United
+00:00,Karonga United, - ,Blue Eagles
+
+Sunday 01/10/2023
+00:00,Dedza Dynamos, - ,Nyasa Big Bullets
+00:00,Mighty Tigers, - ,Chitipa United
+00:00,Extreme, - ,Bangwe All Stars
+
+Saturday 07/10/2023
+00:00,Nyasa Big Bullets, - ,Bangwe All Stars
+00:00,MAFCO, - ,kwendeni Hammers
+00:00,Mighty Tigers, - ,Silver Strikers
+
+
+Sunday 17/09/2023
+00:00,Kamuzu Barracks, - ,Ekwendeni Hammers
+00:00,CIVO United, - ,Mighty Wanderers
+Saturday 23/09/2023
+00:00,Chitipa United, - ,Silver Strikers
+00:00,Blue Eagles, - ,Ekwendeni Hammers
+00:00,Nyasa Big Bullets, - ,Mighty Wanderers
+00:00,Extreme, - ,Moyale Barracks
+00:00,MAFCO, - ,Dedza Dynamos
+Sunday 24/09/2023
+00:00,Kamuzu Barracks, - ,Mighty Tigers
+00:00,Karonga United, - ,Red Lions
+00:00,Bangwe All Stars, - ,CIVO United
+
+Sunday 10/09/2023
+00:00,Moyale Barracks, - ,Chitipa United
+00:00,CIVO United, - ,Silver Strikers
+00:00,Mighty Wanderers, - ,Kamuzu Barracks
+00:00,Red Lions, - ,Extreme
+Saturday 16/09/2023
+00:00,Nyasa Big Bullets, - ,Silver Strikers
+00:00,Karonga United, - ,Moyale Barracks
+00:00,Extreme, - ,Mighty Tigers
+Sunday 17/09/2023
+00:00,Bangwe All Stars, - ,Dedza Dynamos
+00:00,Chitipa United, - ,MAFCO
+00:00,Red Lions, - ,Blue Eagles
+
+
+Saturday 02/09/2023
+00:00,Chitipa United, - ,Ekwendeni Hammers
+00:00,Silver Strikers, - ,Dedza Dynamos
+Sunday 03/09/2023
+00:00,Bangwe All Stars, - ,Mighty Wanderers
+00:00,Karonga United, - ,Extreme
+00:00,Moyale Barracks, - ,Red Lions
+00:00,Blue Eagles, - ,Kamuzu Barracks
+Saturday 09/09/2023
+00:00,Karonga United, - ,Nyasa Big Bullets
+00:00,Ekwendeni Hammers, -,Dedza Dynamos
+00:00,Blue Eagles, - ,Mighty Tigers
+00:00,MAFCO, - ,Bangwe All Stars
+
+Saturday 26/08/2023
+00:00,Dedza Dynamos, - ,Extreme
+00:00,Nyasa Big Bullets, - ,Mighty Tigers
+00:00,Silver Strikers, - ,Moyale Barracks
+00:00,Blue Eagles, - ,Mighty Wanderers
+Sunday 27/08/2023
+00:00,Kamuzu Barracks, - ,Karonga United
+00:00,Red Lions, - ,MAFCO
+00:00,Ekwendeni Hammers, - ,Bangwe All Stars
+00:00,CIVO United, - ,Chitipa United
+Saturday 02/09/2023
+00:00,Nyasa Big Bullets, - ,CIVO United
+00:00,MAFCO, - ,Mighty Tigers
+
+Saturday 19/08/2023
+00:00,Kamuzu Barracks,PSTP,Chitipa United
+00:00,Mighty Wanderers,PSTP,MAFCO
+00:00,Ekwendeni Hammers,PSTPCIVO United
+FT,Chitipa United,0 - 0,Mighty Wanderers
+FT,Mighty Tigers,2 - 0,Dedza Dynamos
+FT,Blue Eagles,0 - 1,Moyale Barracks
+FT,Kamuzu Barracks,0 - 1,CIVO United
+Sunday 20/08/2023
+00:00,Blue Eagles,PSTP,Nyasa Big Bullets
+00:00,Dedza Dynamos,PSTP,Karonga United
+00:00,Moyale Barracks,PSTP,Bangwe All Stars
+00:00,Mighty Tigers,PSTP,Red Lions
+00:00,Silver Strikers,PSTP,Extreme
+14:30,Extreme, - ,MAFCO
+14:30,Bangwe All Stars, - ,Silver Strikers
+14:30,Karonga United, - ,Ekwendeni Hammers
+
+Thursday 10/08/2023
+FT,Moyale Barracks,0 - 0,Ekwendeni Hammers
+Saturday 12/08/2023
+00:00,Moyale Barracks,PSTP,Kamuzu Barracks
+00:00,Karonga United,PSTP,MAFCO
+FT,MAFCO,0 - 1,Kamuzu Barracks
+FT,CIVO United,0 - 0,Mighty Tigers
+Sunday 13/08/2023
+FT,Nyasa Big Bullets,3 - 0,Extreme
+FT,Red Lions,1 - 0,Silver Strikers
+FT,Blue Eagles,2 - 2,Bangwe All Stars
+FT,Dedza Dynamos,1 - 0,Chitipa United
+Wednesday 16/08/2023
+FT,Ekwendeni Hammers,1 - 2,Mighty Wanderers
+
+Sunday 30/07/2023
+FT,Silver Strikers,1 - 2,CIVO United
+Wednesday 02/08/2023
+FT,Moyale Barracks,0 - 0,Silver Strikers
+FT,Mighty Tigers,1 - 1,Nyasa Big Bullets
+Sunday 06/08/2023
+FT,Silver Strikers,2 - 1,Blue Eagles
+FT,Chitipa United,2 - 0,Karonga United
+Tuesday 08/08/2023
+FT,Mighty Tigers,0 - 1,Bangwe All Stars
+Wednesday 09/08/2023
+FT,Mighty Wanderers,1 - 1,Red Lions
+FT,Extreme,1 - 1,CIVO United
+FT,MAFCO,0 - 0,Nyasa Big Bullets
+Thursday 10/08/2023
+FT,Kamuzu Barracks,2 - 0,Dedza Dynamos
+
+Sunday 23/07/2023
+FT,Karonga United,1 - 1,Kamuzu Barracks
+
+Wednesday 26/07/2023
+FT,Extreme,1 - 2,Silver Strikers
+FT,MAFCO,0 - 2,Mighty Wanderers
+
+Saturday 29/07/2023
+FT,Extreme,2 - 1,Red Lions
+FT,Chitipa United,1 - 0,Moyale Barracks
+FT,Mighty Tigers,0 - 0,Blue Eagles
+FT,Kamuzu Barracks,1 - 0,Mighty Wanderers
+FT,Nyasa Big Bullets,2 - 0,Karonga United
+
+Sunday 30/07/2023
+FT,Bangwe All Stars,2 - 1,MAFCO
+FT,Dedza Dynamos,1 - 1,Ekwendeni Hammers
+
+Sunday 16/07/2023
+FT,Ekwendeni Hammers,3 - 2,Red Lions
+FT,Blue Eagles,0 - 1,Karonga United
+FT,Kamuzu Barracks,1 - 2,MAFCO
+FT,Bangwe All Stars,0 - 0,Extreme
+Thursday 20/07/2023
+FT,Mighty Wanderers,1 - 0,Silver Strikers
+
+Saturday 22/07/2023
+FT,Bangwe All Stars,1 - 1,Ekwendeni Hammers
+FT,Chitipa United,2 - 1,CIVO United
+FT,MAFCO,1 - 0,Red Lions
+
+Sunday 23/07/2023
+FT,Extreme,0 - 1,Dedza Dynamos
+FT,Mighty Wanderers,1 - 0,Blue Eagles
+
+Sunday 02/07/2023
+FT,CIVO United,2 - 1,Bangwe All Stars
+
+Saturday 08/07/2023
+FT,Red Lions,1 - 0,Mighty Tigers
+FT,Bangwe All Stars,1 - 0,Moyale Barracks
+FT,Chitipa United,1 - 0,Kamuzu Barracks
+
+Sunday 09/07/2023
+FT,CIVO United,0 - 0,Ekwendeni Hammers
+FT,Karonga United,2 - 1,Dedza Dynamos
+FT,Nyasa Big Bullets,3 - 0,Blue Eagles
+
+Saturday 15/07/2023
+FT,CIVO United,2 - 2,Moyale Barracks
+FT,Chitipa United,2 - 1,Mighty Tigers
+FT,Nyasa Big Bullets,2 - 2,Dedza Dynamos
+
+Sunday 25/06/2023
+FT,Extreme,0 - 1,Ekwendeni Hammers
+FT,Mighty Wanderers,1 - 1,Dedza Dynamos
+FT,Silver Strikers,4 - 0,Karonga United
+
+Saturday 01/07/2023
+FT,Red Lions,2 - 1,Karonga United
+FT,Moyale Barracks,2 - 0,Extreme
+FT,Mighty Wanderers,0 - 0,Nyasa Big Bullets
+FT,Silver Strikers,0 - 0,Chitipa United
+
+Sunday 02/07/2023
+FT,Ekwendeni Hammers,1 - 0,Blue Eagles
+FT,Mighty Tigers,0 - 1,Kamuzu Barracks
+FT,Dedza Dynamos,2 - 1,MAFCO
+
+Sunday 11/06/2023
+FT,Moyale Barracks,2 - 0,Dedza Dynamos
+FT,Red Lions,1 - 0,Chitipa United
+FT,Blue Eagles,1 - 1,CIVO United
+FT,Silver Strikers,1 - 0,MAFCO
+FT,Kamuzu Barracks,2 - 0,Bangwe All Stars
+
+Saturday 24/06/2023
+FT,Chitipa United,1 - 0,Bangwe All Stars
+FT,MAFCO,0 - 1,Blue Eagles
+FT,Moyale Barracks,0 - 1,Mighty Tigers
+FT,Red Lions,1 - 1,CIVO United
+FT,Kamuzu Barracks,0 - 0,Nyasa Big Bullets
+
+Saturday 03/06/2023
+FT,Blue Eagles,1 - 0,Extreme
+FT,MAFCO,1 - 0,Moyale Barracks
+FT,Chitipa United,1 - 0,Nyasa Big Bullets
+
+Sunday 04/06/2023
+FT,Karonga United,1 - 2,Mighty Wanderers
+FT,Kamuzu Barracks,0 - 1,Silver Strikers
+FT,Dedza Dynamos,2 - 1,CIVO United
+FT,Mighty Tigers,0 - 1,Ekwendeni Hammers
+
+Saturday 10/06/2023
+FT,Extreme,1 - 0,Mighty Wanderers
+FT,Karonga United,1 - 1,Mighty Tigers
+FT,Nyasa Big Bullets,4 - 1,Ekwendeni Hammers
+
+Friday 26/05/2023
+FT,Silver Strikers,0 - 0,Mighty Tigers
+
+Saturday 27/05/2023
+FT,Ekwendeni Hammers,1 - 1,Karonga United
+FT,MAFCO,2 - 1,Extreme
+FT,Mighty Wanderers,0 - 1,Chitipa United
+
+Sunday 28/05/2023
+FT,Moyale Barracks,1 - 1,Blue Eagles
+FT,Nyasa Big Bullets,4 - 0,Red Lions
+FT,Dedza Dynamos,1 - 1,Mighty Tigers
+FT,CIVO United,1 - 0,Kamuzu Barracks
+FT,Silver Strikers,4 - 1,Bangwe All Stars
+
+Saturday 03/06/2023
+FT,Bangwe All Stars,2 - 0,Red Lions
+
+Sunday 14/05/2023
+FT,Ekwendeni Hammers,1 - 0,MAFCO
+
+Monday 15/05/2023
+FT,Kamuzu Barracks,1 - 0,Red Lions,
+
+Saturday 20/05/2023
+FT,Mighty Wanderers,2 - 0,Bangwe All Stars
+FT,Ekwendeni Hammers,1 - 0,Chitipa United
+FT,Kamuzu Barracks,1 - 1,Blue Eagles
+FT,Extreme,0 - 0,Karonga United
+
+Sunday 21/05/2023
+FT,Mighty Tigers,1 - 1,MAFCO
+FT,CIVO United,1 - 1,Nyasa Big Bullets
+FT,Red Lions,0 - 1,Moyale Barracks
+FT,Dedza Dynamos,0 - 0,Silver Strikers
+
+Sunday 07/05/2023
+FT,Ekwendeni Hammers,1 - 3,Silver Strikers
+FT,Red Lions,2 - 1,Dedza Dynamos
+FT,Mighty Tigers,1 - 1,Mighty Wanderers
+FT,Karonga United,1 - 2,Bangwe All Stars
+FT,Extreme,1 - 4,Kamuzu Barracks
+
+Friday 12/05/2023
+FT,Bangwe All Stars,0 - 2,Nyasa Big Bullets
+
+Saturday 13/05/2023
+FT,Blue Eagles,2 - 2,Dedza Dynamos
+FT,Karonga United,1 - 0,CIVO United
+FT,Moyale Barracks,0 - 0,Mighty Wanderers
+
+Sunday 14/05/2023
+FT,Chitipa United,2 - 1,Extreme
+
+Saturday 29/04/2023
+FT,MAFCO,2 - 3,Karonga United
+FT,Mighty Wanderers,2 - 1,Ekwendeni Hammers
+FT,Extreme,0 - 1,Nyasa Big Bullets
+
+Sunday 30/04/2023
+FT,Mighty Tigers,0 - 1,CIVO United
+FT,Silver Strikers,4 - 1,Red Lions
+FT,Bangwe All Stars,1 - 1,Blue Eagles
+FT,Kamuzu Barracks,0 - 1,Moyale Barracks
+
+Saturday 06/05/2023
+FT,CIVO United,1 - 1,MAFCO
+FT,Nyasa Big Bullets,3 - 1,Moyale Barracks
+FT,Blue Eagles,3 - 1,Chitipa United
+
+Sunday 16/04/2023
+FT,Dedza Dynamos,1 - 1,Bangwe All Stars
+
+Saturday 22/04/2023
+FT,Red Lions,0 - 3,Mighty Wanderers
+FT,Bangwe All Stars,0 - 0,Mighty Tigers
+FT,Blue Eagles,0 - 1,Silver Strikers
+FT,Karonga United,2 - 2,Chitipa United
+
+Sunday 23/04/2023
+FT,Dedza Dynamos,3 - 2,Kamuzu Barracks
+FT,Ekwendeni Hammers,0 - 0,Moyale Barracks
+FT,CIVO United,1 - 1,Extreme
+FT,Nyasa Big Bullets,4 - 0,MAFCO
+
+Saturday 29/04/2023
+FT,Chitipa United,3 - 1,Dedza Dynamos
+
+Saturday 15/04/2023
+FT,MAFCO,2 - 1,Chitipa United
+FT,Mighty Tigers,1 - 0,Extreme
+FT,Moyale Barracks,1 - 1,Karonga United
+FT,Silver Strikers,1 - 1,Nyasa Big Bullets
+
+Sunday 16/04/2023
+FT,Mighty Wanderers,2 - 0,CIVO United
+FT,Ekwendeni Hammers,0 - 0,Kamuzu Barracks
+FT,Blue Eagles,1 - 1,Red Lions

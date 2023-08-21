@@ -1,5 +1,5 @@
 Saturday 11/11/2023
-01:00,Mighty Tigers,,-,,Moyale Barracks
+01:00,Mighty Tigers,-,Moyale Barracks
 01:00,CIVO United ,- ,Red Lions
 01:00,Ekwendeni Hammers,-,Extreme
 01:00,Bangwe All Stars,-,Chitipa United

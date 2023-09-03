@@ -1,1735 +1,2132 @@
-{
-	"Saturday11-11-2023": [{
-			"home": "MightyTigers",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "RedLions",
-			"status": "TBP"
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "Extreme",
-			"status": "TBP"
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		}
-	],
-	"Sunday12-11-2023": [{
-			"home": "KarongaUnited",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		},
-		{
-			"home": "BlueEagles",
-			"away": "MAFCO",
-			"status": "TBP"
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		}
-	],
-	"Saturday28-10-2023": [{
-		"home": "RedLions",
-		"away": "NyasaBigBullets",
-		"status": "TBP"
-	}],
-	"Saturday04-11-2023": [{
-			"home": "NyasaBigBullets",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "RedLions",
-			"away": "BangweAllStars",
-			"status": "TBP"
-		},
-		{
-			"home": "Extreme",
-			"away": "BlueEagles",
-			"status": "TBP"
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "MightyTigers",
-			"status": "TBP"
-		}
-	],
-	"Sunday05-11-2023": [{
-			"home": "CIVOUnited",
-			"away": "DedzaDynamos",
-			"status": "TBP"
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "MAFCO",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "KarongaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		}
-	],
-	"Sunday15-10-2023": [{
-			"home": "ChitipaUnited",
-			"away": "RedLions",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "Extreme",
-			"status": "TBP"
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "BlueEagles",
-			"status": "TBP"
-		}
-	],
-	"Saturday21-10-2023": [{
-			"home": "MAFCO",
-			"away": "CIVOUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "Extreme",
-			"status": "TBP"
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "KarongaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "NyasaBigBullets",
-			"status": "TBP"
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "BlueEagles",
-			"status": "TBP"
-		}
-	],
-	"Sunday22-10-2023": [{
-			"home": "DedzaDynamos",
-			"away": "RedLions",
-			"status": "TBP"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "MightyTigers",
-			"status": "TBP"
-		}
-	],
-	"Sunday08-10-2023": [{
-			"home": "RedLions",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "KarongaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "BlueEagles",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "Extreme",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		}
-	],
-	"Saturday14-10-2023": [{
-			"home": "EkwendeniHammers",
-			"away": "NyasaBigBullets",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyTigers",
-			"away": "KarongaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "MAFCO",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		}
-	],
-	"Saturday30-09-2023": [{
-			"home": "RedLions",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "CIVOUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "BlueEagles",
-			"status": "TBP"
-		}
-	],
-	"Sunday01-10-2023": [{
-			"home": "DedzaDynamos",
-			"away": "NyasaBigBullets",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyTigers",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "Extreme",
-			"away": "BangweAllStars",
-			"status": "TBP"
-		}
-	],
-	"Saturday07-10-2023": [{
-			"home": "NyasaBigBullets",
-			"away": "BangweAllStars",
-			"status": "TBP"
-		},
-		{
-			"home": "MAFCO",
-			"away": "kwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyTigers",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		}
-	],
-	"Saturday23-09-2023": [{
-			"home": "ChitipaUnited",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		},
-		{
-			"home": "BlueEagles",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		},
-		{
-			"home": "Extreme",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "MAFCO",
-			"away": "DedzaDynamos",
-			"status": "TBP"
-		}
-	],
-	"Sunday24-09-2023": [{
-			"home": "KamuzuBarracks",
-			"away": "MightyTigers",
-			"status": "TBP"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "RedLions",
-			"status": "TBP"
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "CIVOUnited",
-			"status": "TBP"
-		}
-	],
-	"Sunday10-09-2023": [{
-			"home": "MoyaleBarracks",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "RedLions",
-			"away": "Extreme",
-			"status": "TBP"
-		}
-	],
-	"Saturday16-09-2023": [{
-			"home": "NyasaBigBullets",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "Extreme",
-			"away": "MightyTigers",
-			"status": "TBP"
-		}
-	],
-	"Sunday17-09-2023": [{
-			"home": "BangweAllStars",
-			"away": "DedzaDynamos",
-			"status": "TBP"
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "MAFCO",
-			"status": "TBP"
-		},
-		{
-			"home": "RedLions",
-			"away": "BlueEagles",
-			"status": "TBP"
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		}
-	],
-	"Sunday03-09-2023": [{
-			"home": "BangweAllStars",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "Extreme",
-			"status": "TBP"
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "RedLions",
-			"status": "TBP"
-		},
-		{
-			"home": "BlueEagles",
-			"away": "KamuzuBarracks",
-			"status": "TBP"
-		}
-	],
-	"Saturday09-09-2023": [{
-			"home": "KarongaUnited",
-			"away": "NyasaBigBullets",
-			"status": "TBP"
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "DedzaDynamos",
-			"status": "TBP"
-		},
-		{
-			"home": "BlueEagles",
-			"away": "MightyTigers",
-			"status": "TBP"
-		},
-		{
-			"home": "MAFCO",
-			"away": "BangweAllStars",
-			"status": "TBP"
-		}
-	],
-	"Saturday26-08-2023": [{
-			"home": "DedzaDynamos",
-			"away": "Extreme",
-			"status": "TBP"
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "MightyTigers",
-			"status": "TBP"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "MoyaleBarracks",
-			"status": "TBP"
-		},
-		{
-			"home": "BlueEagles",
-			"away": "MightyWanderers",
-			"status": "TBP"
-		}
-	],
-	"Sunday27-08-2023": [{
-			"home": "KamuzuBarracks",
-			"away": "KarongaUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "RedLions",
-			"away": "MAFCO",
-			"status": "TBP"
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "BangweAllStars",
-			"status": "TBP"
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "ChitipaUnited",
-			"status": "TBP"
-		}
-	],
-	"Saturday02-09-2023": [{
-			"home": "NyasaBigBullets",
-			"away": "CIVOUnited",
-			"status": "TBP"
-		},
-		{
-			"home": "MAFCO",
-			"away": "MightyTigers",
-			"status": "TBP"
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "DedzaDynamos",
-			"status": "TBP"
-		}
-	],
-	"Saturday19-08-2023": [{
-			"home": "KamuzuBarracks",
-			"away": "ChitipaUnited",
-			"status": "Postponed"
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "MAFCO",
-			"status": "Postponed"
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "PSTPCIVOUnited",
-			"status": "Scheduled"
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday20-08-2023": [{
-			"home": "BlueEagles",
-			"away": "NyasaBigBullets",
-			"status": "Postponed"
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "KarongaUnited",
-			"status": "Postponed"
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "BangweAllStars",
-			"status": "Postponed"
-		},
-		{
-			"home": "MightyTigers",
-			"away": "RedLions",
-			"status": "Postponed"
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "Extreme",
-			"status": "Postponed"
-		},
-		{
-			"home": "Extreme",
-			"away": "MAFCO",
-			"status": "TBP"
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "SilverStrikers",
-			"status": "TBP"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "EkwendeniHammers",
-			"status": "TBP"
-		}
-	],
-	"Saturday12-08-2023": [{
-			"home": "MoyaleBarracks",
-			"away": "KamuzuBarracks",
-			"status": "Postponed"
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "MAFCO",
-			"status": "Postponed"
-		},
-		{
-			"home": "MAFCO",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday13-08-2023": [{
-			"home": "NyasaBigBullets",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "0"
-			}
-		},
-		{
-			"home": "RedLions",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "2"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		}
-	],
-	"Wednesday16-08-2023": [{
-		"home": "EkwendeniHammers",
-		"away": "MightyWanderers",
-		"status": "Played",
-		"score": {
-			"home": "1",
-			"away": "2"
-		}
-	}],
-	"Wednesday02-08-2023": [{
-			"home": "MoyaleBarracks",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday06-08-2023": [{
-			"home": "SilverStrikers",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		}
-	],
-	"Tuesday08-08-2023": [{
-		"home": "MightyTigers",
-		"away": "BangweAllStars",
-		"status": "Played",
-		"score": {
-			"home": "0",
-			"away": "1"
-		}
-	}],
-	"Wednesday09-08-2023": [{
-			"home": "MightyWanderers",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "Extreme",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MAFCO",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Thursday10-08-2023": [{
-			"home": "KamuzuBarracks",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Wednesday26-07-2023": [{
-			"home": "Extreme",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "2"
-			}
-		},
-		{
-			"home": "MAFCO",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "2"
-			}
-		}
-	],
-	"Saturday29-07-2023": [{
-			"home": "Extreme",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday30-07-2023": [{
-			"home": "BangweAllStars",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "2"
-			}
-		}
-	],
-	"Sunday16-07-2023": [{
-			"home": "EkwendeniHammers",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "2"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "2"
-			}
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Thursday20-07-2023": [{
-		"home": "MightyWanderers",
-		"away": "SilverStrikers",
-		"status": "Played",
-		"score": {
-			"home": "1",
-			"away": "0"
-		}
-	}],
-	"Saturday22-07-2023": [{
-			"home": "BangweAllStars",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MAFCO",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday23-07-2023": [{
-			"home": "Extreme",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		}
-	],
-	"Saturday08-07-2023": [{
-			"home": "RedLions",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday09-07-2023": [{
-			"home": "CIVOUnited",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday15-07-2023": [{
-			"home": "CIVOUnited",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "2"
-			}
-		},
-		{
-			"home": "ChitipaUnited",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "2"
-			}
-		}
-	],
-	"Sunday25-06-2023": [{
-			"home": "Extreme",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday01-07-2023": [{
-			"home": "RedLions",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday02-07-2023": [{
-			"home": "EkwendeniHammers",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday11-06-2023": [{
-			"home": "MoyaleBarracks",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "RedLions",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday24-06-2023": [{
-			"home": "ChitipaUnited",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MAFCO",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "RedLions",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday03-06-2023": [{
-		"home": "BangweAllStars",
-		"away": "RedLions",
-		"status": "Played",
-		"score": {
-			"home": "2",
-			"away": "0"
-		}
-	}],
-	"Sunday04-06-2023": [{
-			"home": "KarongaUnited",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "2"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		}
-	],
-	"Saturday10-06-2023": [{
-			"home": "Extreme",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "EkwendeniHammers",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "1"
-			}
-		}
-	],
-	"Friday26-05-2023": [{
-		"home": "SilverStrikers",
-		"away": "MightyTigers",
-		"status": "Played",
-		"score": {
-			"home": "0",
-			"away": "0"
-		}
-	}],
-	"Saturday27-05-2023": [{
-			"home": "EkwendeniHammers",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MAFCO",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyWanderers",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday28-05-2023": [{
-			"home": "MoyaleBarracks",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "0"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday14-05-2023": [{
-		"home": "ChitipaUnited",
-		"away": "Extreme",
-		"status": "Played",
-		"score": {
-			"home": "2",
-			"away": "1"
-		}
-	}],
-	"Monday15-05-2023": [{
-		"home": "KamuzuBarracks",
-		"away": "RedLions",
-		"status": "Played",
-		"score": {
-			"home": "1",
-			"away": "0"
-		}
-	}],
-	"Saturday20-05-2023": [{
-			"home": "MightyWanderers",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "Extreme",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday21-05-2023": [{
-			"home": "MightyTigers",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "RedLions",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "DedzaDynamos",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Sunday07-05-2023": [{
-			"home": "EkwendeniHammers",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "3"
-			}
-		},
-		{
-			"home": "RedLions",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "BangweAllStars",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "2"
-			}
-		},
-		{
-			"home": "Extreme",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "4"
-			}
-		}
-	],
-	"Friday12-05-2023": [{
-		"home": "BangweAllStars",
-		"away": "NyasaBigBullets",
-		"status": "Played",
-		"score": {
-			"home": "0",
-			"away": "2"
-		}
-	}],
-	"Saturday13-05-2023": [{
-			"home": "BlueEagles",
-			"away": "DedzaDynamos",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "2"
-			}
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday29-04-2023": [{
-		"home": "ChitipaUnited",
-		"away": "DedzaDynamos",
-		"status": "Played",
-		"score": {
-			"home": "3",
-			"away": "1"
-		}
-	}],
-	"Sunday30-04-2023": [{
-			"home": "MightyTigers",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "1"
-			}
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "BlueEagles",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KamuzuBarracks",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		}
-	],
-	"Saturday06-05-2023": [{
-			"home": "CIVOUnited",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "1"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "1"
-			}
-		}
-	],
-	"Sunday16-04-2023": [{
-			"home": "MightyWanderers",
-			"away": "CIVOUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "0"
-			}
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "RedLions",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		}
-	],
-	"Saturday22-04-2023": [{
-			"home": "RedLions",
-			"away": "MightyWanderers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "3"
-			}
-		},
-		{
-			"home": "BangweAllStars",
-			"away": "MightyTigers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "BlueEagles",
-			"away": "SilverStrikers",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "1"
-			}
-		},
-		{
-			"home": "KarongaUnited",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "2"
-			}
-		}
-	],
-	"Sunday23-04-2023": [{
-			"home": "DedzaDynamos",
-			"away": "KamuzuBarracks",
-			"status": "Played",
-			"score": {
-				"home": "3",
-				"away": "2"
-			}
-		},
-		{
-			"home": "EkwendeniHammers",
-			"away": "MoyaleBarracks",
-			"status": "Played",
-			"score": {
-				"home": "0",
-				"away": "0"
-			}
-		},
-		{
-			"home": "CIVOUnited",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "NyasaBigBullets",
-			"away": "MAFCO",
-			"status": "Played",
-			"score": {
-				"home": "4",
-				"away": "0"
-			}
-		}
-	],
-	"Saturday15-04-2023": [{
-			"home": "MAFCO",
-			"away": "ChitipaUnited",
-			"status": "Played",
-			"score": {
-				"home": "2",
-				"away": "1"
-			}
-		},
-		{
-			"home": "MightyTigers",
-			"away": "Extreme",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "0"
-			}
-		},
-		{
-			"home": "MoyaleBarracks",
-			"away": "KarongaUnited",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		},
-		{
-			"home": "SilverStrikers",
-			"away": "NyasaBigBullets",
-			"status": "Played",
-			"score": {
-				"home": "1",
-				"away": "1"
-			}
-		}
-	]
-}
+[
+    {
+        "home": "Mighty Tigers",
+        "away": "Moyale Barracks",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "11-11-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Red Lions",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "11-11-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "11-11-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Chitipa United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "11-11-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "12-11-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "12-11-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "MAFCO",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "12-11-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Kamuzu Barracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "12-11-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Nyasa Big Bullets",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "28-10-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Chitip aUnited",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "04-11-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Bangwe All Stars",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "04-11-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Blue Eagles",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "04-11-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "04-11-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Dedza Dynamos",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "05-11-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "MAFCO",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "05-11-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Karonga United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "05-11-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "KamuzuBarracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "05-11-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "RedLions",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "15-10-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "15-10-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "MoyaleBarracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "15-10-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "BlueEagles",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "15-10-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "CIVO United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "21-10-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "21-10-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Karonga United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "21-10-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Nyasa Big Bullets",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "21-10-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Blue Eagles",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "21-10-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Red Lions",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "22-10-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "22-10-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "22-10-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Kamuzu Barracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "08-10-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Karonga United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "08-10-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Blue Eagles",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "08-10-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Moyale Barracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "08-10-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Chitipa United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "08-10-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Nyasa Big Bullets",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "14-10-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Karonga United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "14-10-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Kamuzu Barracks",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "14-10-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "14-10-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "30-09-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "30-09-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "CIVO United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "30-09-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Blue Eagles",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "30-09-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Nyasa Big Bullets",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "01-10-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Chitipa United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "01-10-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Bangwe All Stars",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "01-10-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Bangwe All Stars",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "07-10-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "kwendeni Hammers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "07-10-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "07-10-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "23-09-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "23-09-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "23-09-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Moyale Barracks",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "23-09-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Dedza Dynamos",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "23-09-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "24-09-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Red Lions",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "24-09-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "CIVO United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "24-09-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Chitipa United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "10-09-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "10-09-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Kamuzu Barracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "10-09-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "10-09-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "16-09-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Moyale Barracks",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "16-09-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "16-09-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Dedza Dynamos",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "17-09-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "MAFCO",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "17-09-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Blue Eagles",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "17-09-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "17-09-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "17-09-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "03-09-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "03-09-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Red Lions",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "03-09-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Kamuzu Barracks",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "03-09-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Nyasa Big Bullets",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "09-09-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Dedza Dynamos",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "09-09-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "09-09-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Bangwe All Stars",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "09-09-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Extreme",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "26-08-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "26-08-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Moyale Barracks",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "26-08-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Mighty Wanderers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "26-08-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Karonga United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "27-08-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "MAFCO",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "27-08-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Bangwe All Stars",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "27-08-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Chitipa United",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "27-08-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "CIVO United",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "02-09-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Mighty Tigers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "02-09-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "02-09-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Dedza Dynamos",
+        "status": "TBP",
+        "day": "Saturday",
+        "date": "02-09-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Chitipa United",
+        "status": "Postponed",
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "MAFCO",
+        "status": "Postponed",
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "CIVO United",
+        "status": "Postponed",
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "19-08-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Nyasa Big Bullets",
+        "status": "Postponed",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Karonga United",
+        "status": "Postponed",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Bangwe All Stars",
+        "status": "Postponed",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Red Lions",
+        "status": "Postponed",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Extreme",
+        "status": "Postponed",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "MAFCO",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Silver Strikers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Ekwendeni Hammers",
+        "status": "TBP",
+        "day": "Sunday",
+        "date": "20-08-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Kamuzu Barracks",
+        "status": "Postponed",
+        "day": "Saturday",
+        "date": "12-08-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "MAFCO",
+        "status": "Postponed",
+        "day": "Saturday",
+        "date": "12-08-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "12-08-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "12-08-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "13-08-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "13-08-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "13-08-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "13-08-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Wednesday",
+        "date": "16-08-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Wednesday",
+        "date": "02-08-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Wednesday",
+        "date": "02-08-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "06-08-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "06-08-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Tuesday",
+        "date": "08-08-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "RedLions",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Wednesday",
+        "date": "09-08-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Wednesday",
+        "date": "09-08-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Wednesday",
+        "date": "09-08-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Thursday",
+        "date": "10-08-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Thursday",
+        "date": "10-08-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Wednesday",
+        "date": "26-07-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "2"
+        },
+        "day": "Wednesday",
+        "date": "26-07-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "RedLions",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "29-07-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "29-07-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "29-07-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "29-07-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "29-07-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-07-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-07-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "30-07-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "RedLions",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "16-07-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "16-07-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "16-07-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "16-07-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Thursday",
+        "date": "20-07-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "22-07-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "CIVOUnited",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "22-07-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "22-07-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "23-07-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "23-07-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "23-07-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "08-07-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "2"
+        },
+        "day": "Saturday",
+        "date": "15-07-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "15-07-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "2"
+        },
+        "day": "Saturday",
+        "date": "15-07-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "25-06-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "25-06-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "25-06-2023"
+    },
+    {
+        "home": "RedLions",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "01-07-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "01-07-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "01-07-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "01-07-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "Date": "Sunday 02-07-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "Date": "Sunday 02-07-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "Date": "Sunday 02-07-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "Date": "Sunday 02-07-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "11-06-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "11-06-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "11-06-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "11-06-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "11-06-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "24-06-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "24-06-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "24-06-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "24-06-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "24-06-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "03-06-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "04-06-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "04-06-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "04-06-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "04-06-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "10-06-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Ekwendeni Hammers",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "10-06-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Friday",
+        "date": "26-05-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "27-05-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "27-05-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "27-05-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "28-05-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "28-05-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "28-05-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "28-05-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "28-05-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        }
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "Date": "Monday 15-05-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "20-05-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "20-05-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "20-05-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "20-05-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "21-05-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "21-05-2023"
+    },
+    {
+        "home": "RedLions",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "21-05-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "21-05-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "3"
+        },
+        "day": "Sunday",
+        "date": "07-05-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "07-05-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "07-05-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Bangwe All Stars",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "07-05-2023"
+    },
+    {
+        "home": "Extreme",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "4"
+        },
+        "day": "Sunday",
+        "date": "07-05-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "2"
+        },
+        "day": "Friday",
+        "date": "12-05-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "2"
+        },
+        "day": "Saturday",
+        "date": "13-05-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "13-05-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "13-05-2023"
+    },
+    {
+        "home": "Chitipa United",
+        "away": "Dedza Dynamos",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "29-04-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-04-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-04-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Blue Eagles",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-04-2023"
+    },
+    {
+        "home": "Kamuzu Barracks",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "30-04-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "06-05-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "06-05-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "06-05-2023"
+    },
+    {
+        "home": "Mighty Wanderers",
+        "away": "CIVO United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "16-04-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "16-04-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Red Lions",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "16-04-2023"
+    },
+    {
+        "home": "Red Lions",
+        "away": "Mighty Wanderers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "3"
+        },
+        "day": "Saturday",
+        "date": "22-04-2023"
+    },
+    {
+        "home": "Bangwe All Stars",
+        "away": "Mighty Tigers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "22-04-2023"
+    },
+    {
+        "home": "Blue Eagles",
+        "away": "Silver Strikers",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "22-04-2023"
+    },
+    {
+        "home": "Karonga United",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "2"
+        },
+        "day": "Saturday",
+        "date": "22-04-2023"
+    },
+    {
+        "home": "Dedza Dynamos",
+        "away": "Kamuzu Barracks",
+        "status": "Played",
+        "score": {
+            "home": "3",
+            "away": "2"
+        },
+        "day": "Sunday",
+        "date": "23-04-2023"
+    },
+    {
+        "home": "Ekwendeni Hammers",
+        "away": "Moyale Barracks",
+        "status": "Played",
+        "score": {
+            "home": "0",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "23-04-2023"
+    },
+    {
+        "home": "CIVO United",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Sunday",
+        "date": "23-04-2023"
+    },
+    {
+        "home": "Nyasa Big Bullets",
+        "away": "MAFCO",
+        "status": "Played",
+        "score": {
+            "home": "4",
+            "away": "0"
+        },
+        "day": "Sunday",
+        "date": "23-04-2023"
+    },
+    {
+        "home": "MAFCO",
+        "away": "Chitipa United",
+        "status": "Played",
+        "score": {
+            "home": "2",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "15-04-2023"
+    },
+    {
+        "home": "Mighty Tigers",
+        "away": "Extreme",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "0"
+        },
+        "day": "Saturday",
+        "date": "15-04-2023"
+    },
+    {
+        "home": "Moyale Barracks",
+        "away": "Karonga United",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "15-04-2023"
+    },
+    {
+        "home": "Silver Strikers",
+        "away": "Nyasa Big Bullets",
+        "status": "Played",
+        "score": {
+            "home": "1",
+            "away": "1"
+        },
+        "day": "Saturday",
+        "date": "15-04-2023"
+    }
+]

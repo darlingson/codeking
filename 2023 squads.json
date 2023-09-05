@@ -22,39 +22,9 @@
   },
   {
     "team":"Silver Strickers",
-    GOALKEEPERS
-Charles Thom
-Pilirani Mapira
-Emance Nyirenda
-Charles Chisale
-DEFENDERS
-Mark Fodya
-Nickson Mwase
-Tatenda M'balaka
-Maxwell Paipi
-Innocent Shema
-Chisomo Mpachika
-Emmanuel Kaunga
-Haddy Ng'andu
-Dan Sandukila
-MIDFIELDERS
-Chimwemwe Idana
-Zebron Kalima
-Chinsisi Maonga
-Phillip Banda
-Duncan Nyoni
-Patrick Macheso
-Tathedwa Willard
-Uchizi Vunga
-Emmanuel Muyira
-Chikondi Kamanga
-Francis Nyirenda
-STRIKERS
-Stain Davie
-Madalitso Maso
-China Chirwa
-Atusaye Nyondo
-Rodwell Robert
-Gift Chunga
+    "GOALKEEPERS" : "Charles Thom,Pilirani Mapira,,Emance Nyirenda,Charles Chisale",
+    "DEFENDERS", : "Mark Fodya,Nickson Mwase,Tatenda M'balaka,Maxwell Paipi,Innocent Shema,Chisomo Mpachika,Emmanuel Kaunga,Haddy Ng'andu,Dan Sandukila",
+    "MIDFIELDERS" : "Chimwemwe Idana,Zebron Kalima,Chinsisi Maonga,Phillip Banda,Duncan Nyoni,Patrick Macheso,Tathedwa Willard,Uchizi Vunga,Emmanuel Muyira,Chikondi Kamanga,Francis Nyirenda",
+    "STRIKERS" : "Stain Davie,Madalitso Maso,China Chirwa,Atusaye Nyondo,Rodwell Robert,Gift Chunga"
   }
 ]

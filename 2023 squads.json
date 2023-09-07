@@ -11,14 +11,18 @@
     "team": "Might Wanderers",
     "Goalkeepers" : "WILLIAM THOLE,RICHARD CHIPUWA",
     "Defenders" : "ADELEKE KOLAWOLE, PETER CHOLOPI, STANLEY SANUDI,MIRACLE GABEYA",
-    "Midfielders" : "ALFRED MANYOZO JNR,BALIKINHO MWAKANYANGO,FELIX ZULU,VITUMBIKO KUMWENDA,FRANCIS NKONDA,ISAAC KALIATI,WISDOM MPINGANJIRA",
+    "Midfielders" : "ALFRED MANYOZO JNR,BALIKIN HO MWAKANYANGO,FELIX ZULU,VITUMBIKO KUMWENDA,FRANCIS NKONDA,ISAAC KALIATI,WISDOM MPINGANJIRA",
     "Forwards" : "VINCENT NYANGULU,MISHECK BOTOMAN,CHIUKEPO MSOWOYA"
   },
   {
     "team":"Extreme"
   },
   {
-    "team":"Civo United"
+    "team":"Civo United",
+    "Goalkeepers":"Lumbani Chitete,Richard Mwaila,Tione Tembo",
+    "Defenders" : "Bashir Puyol Maunde,Boston Kabango,Erick Atsigah,Willard Dickson,Kelvin Kadzinje,Timothy Silwimbi,John Dambuleni",
+    "Midfielders" :"Dan Kumwenda,Henry Msowoya,Victor Lungu ,Moses Banda ,Lloyd Aaron,Shukran Mwawa,Arnold Masamba,William Mwalwimbi,Muhamad Baison,Innocent Tanganyika",
+    "Strikers",:"Lanken Mwale (C),Luke Chima,Juma Yatina,Shasimbiwe Kanyika,Patrick Phiri,Chikaiko Batison,Binwell Katinji,Christopher Kumwembe"
   },
   {
     "team":"Silver Strickers",

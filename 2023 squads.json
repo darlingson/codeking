@@ -15,7 +15,11 @@
     "Forwards" : "VINCENT NYANGULU,MISHECK BOTOMAN,CHIUKEPO MSOWOYA"
   },
   {
-    "team":"Extreme"
+    "team":"Extreme",
+    "Goalkeepers":"BLESSINGS JUMA",
+    "Defenders" : "ARON CHIKUNI,DANIEL MPONYA,JOHN CHALAMANDA,FRANCIS PUKUSU",
+    "Midfielders" :"GRIFFIN NG'ANJO,JUNIOR BANDA,BESTON JIMU",
+    "Strikers":"GREGORY MWASE,CHIFUNDO GEORGE,MAVUTO CHIPOLOPOLO"
   },
   {
     "team":"Civo United",

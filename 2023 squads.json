@@ -36,7 +36,10 @@
     "STRIKERS" : "Stain Davie,Madalitso Maso,China Chirwa,Atusaye Nyondo,Rodwell Robert,Gift Chunga"
   },
   {
-    "team": "Bangwe All Stars"
+    "team": "Bangwe All Stars",
+    "Goalkeepers" : "Elias Missi",
+    "Defenders":"Bongani,Kaipa HadjiWali, Believe June",
+    "Strikers" : "Michael Tetteh"
   },
   {
     "team": "Blue Eagles"

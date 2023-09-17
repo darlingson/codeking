@@ -52,27 +52,59 @@
     "Players" : "Alex Benson,Alick Jana,Aubrey Chirambo,Bob Longwe,Bosingwa Chihoma,Christopher Mtambo,Dalitso Khungwa,Donex Gondwe,Elisha Nyirongo,Emmanuel Muyira,Eric Chiona,Gule Mwaisope,Hardy Ng'andu,Hendrick Misinde,Innocent Kyumba,Jeremiah Simfukwe,Khumbo Ng'ambi,Louis Richard Mitunda,Lupakisho Kazingo,Mario Nkhoma,Mathews Sibale,McDonald Chaula,Peter Mughogho,Prior Mwalwanda,Ramadhan Ntafu,Suzyo Msowoya,Suzyo Siyeni,Tinkhani Nyirenda,Yotam Chitete"
   },
   {
-    "team": "Dedza Dynamos"
+    "team": "Dedza Dynamos",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Ekwendeni Hammers"
+    "team": "Ekwendeni Hammers",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Kamuzu Barracks"
+    "team": "Kamuzu Barracks",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Karonga United"
+    "team": "Karonga United",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "MAFCO"
+    "team": "MAFCO",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Mighty Tigers"
+    "team": "Mighty Tigers",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Moyale Barracks"
+    "team": "Moyale Barracks",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   },
   {
-    "team": "Red Lions"
+    "team": "Red Lions",
+    "Goalkeepers" :"",
+    "Defenders" : "",
+    "Midfielders":"",
+    "Strikers":""
   }
 ]

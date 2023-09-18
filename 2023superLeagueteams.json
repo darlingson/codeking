@@ -4,111 +4,207 @@
     "abbreviation": "BAS FC",
     "Location": "Blantyre",
     "Stadium": "Mpira Stadium",
-    "Capacity": "6,244"
+    "Capacity": "6,244",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Blue Eagles",
     "abbreviation": "BE FC",
     "Location": "Lilongwe",
     "Stadium": "Nankhaka Stadium",
-    "Capacity": "5,000"
+    "Capacity": "5,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Chitipa United",
     "abbreviation": "CU FC",
     "Location": "Karonga",
     "Stadium": "Karonga Stadium",
-    "Capacity": "20,000"
+    "Capacity": "20,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Civil Service United",
     "abbreviation": "Civo",
     "Location": "Lilongwe",
     "Stadium": "Civo Stadium",
-    "Capacity": "25,000"
+    "Capacity": "25,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Dedza Dynamos",
     "abbreviation": "DD FC",
     "Location": "Dedza",
     "Stadium": "Dedza Stadium",
-    "Capacity": "6,000"
+    "Capacity": "6,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Ekwendeni Hammers",
     "abbreviation": "EH FC",
     "Location": "Mzuzu",
     "Stadium": "Mzuzu Stadium",
-    "Capacity": "15,000"
+    "Capacity": "15,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Extreme",
     "abbreviation": "EFC",
     "Location": "Lilongwe",
     "Stadium": "Civo Stadium",
-    "Capacity": "25,000"
+    "Capacity": "25,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Kamuzu Barracks",
     "abbreviation": "KB FC",
     "Location": "Lilongwe",
     "Stadium": "Civo Stadium",
-    "Capacity": "25,000"
+    "Capacity": "25,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Karonga United",
     "abbreviation": "KU FC",
     "Location": "Karonga",
     "Stadium": "Karonga Stadium",
-    "Capacity": "20,000"
+    "Capacity": "20,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "MAFCO",
     "abbreviation": "MAFCO",
     "Location": "Nkhotakota",
     "Stadium": "Chitowe Stadium",
-    "Capacity": "1,000"
+    "Capacity": "1,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Mighty Tigers",
     "abbreviation": "Tigers",
     "Location": "Nchalo",
     "Stadium": "Kalulu Stadium",
-    "Capacity": "3,000"
+    "Capacity": "3,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Mighty Wanderers",
     "abbreviation": "MW FC",
     "Location": "Blantyre",
     "Stadium": "Kamuzu Stadium",
-    "Capacity": "65,000"
+    "Capacity": "65,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Moyale Barracks",
     "abbreviation": "Moyale",
     "Location": "Mzuzu",
     "Stadium": "Mzuzu Stadium",
-    "Capacity": "15,000"
+    "Capacity": "15,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Nyasa Big Bullets",
     "abbreviation": "BB FC",
     "Location": "Blantyre",
     "Stadium": "Kamuzu Stadium",
-    "Capacity": "65,000"
+    "Capacity": "65,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Red Lions",
     "abbreviation": "Lions",
     "Location": "Balaka",
     "Stadium": "Balaka Stadium",
-    "Capacity": "3,000"
+    "Capacity": "3,000",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   },
   {
     "Team": "Silver Strikers",
     "abbreviation": "Silva",
     "Location": "Lilongwe",
     "Stadium": "Bingu National Stadium",
-    "Capacity": "41,100"
+    "Capacity": "41,100",
+    "Trophies":[
+      {
+        "name":"",
+        "year":"",
+      }
+    ]
   }
 ]

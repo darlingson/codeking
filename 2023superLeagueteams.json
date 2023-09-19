@@ -176,8 +176,40 @@
     "Capacity": "65,000",
     "Trophies":[
       {
-        "name":"",
-        "year":"",
+        "name":"FDH CUP",
+        "year":"2022",
+      },      
+      {
+        "name":"Charity Shield",
+        "year":"2016",
+      },      
+      {
+        "name":"Charity Shield",
+        "year":"2017",
+      },      
+      {
+        "name":"Charity Shield",
+        "year":"2018",
+      },      
+      {
+        "name":"Charity Shield",
+        "year":"2019",
+      },      
+      {
+        "name":"Airtel Top 8",
+        "year":"2021",
+      },      
+      {
+        "name":"Carlsberg cup",
+        "year":"2002",
+      },      
+      {
+        "name":"Carlsberg cup",
+        "year":"2014",
+      },      
+      {
+        "name":"Carlsberg cup",
+        "year":"2017",
       }
     ]
   },

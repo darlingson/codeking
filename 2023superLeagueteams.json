@@ -150,8 +150,35 @@
     "Capacity": "65,000",
     "Trophies":[
       {
-        "name":"",
-        "year":"",
+        "name":"Super League of Malawi",
+        "year":"1990"
+      },{
+        "name":"Super League of Malawi",
+        "year":"1995"
+      },{
+        "name":"Super League of Malawi",
+        "year":"1997"
+      },{
+        "name":"Super League of Malawi",
+        "year":"1998"
+      },{
+        "name":"Super League of Malawi",
+        "year":"2006"
+      }{
+        "name":"Super League of Malawi",
+        "year":"2017"
+      },{
+        "name":"Bp Top 8",
+        "year":"2004"
+      },{
+        "name":"Malawi FAM Cup",
+        "year":"2005"
+      },{
+        "name":"Malawi FAM Cup",
+        "year":"2012"
+      },{
+        "name":"Malawi FAM Cup",
+        "year":"2013"
       }
     ]
   },

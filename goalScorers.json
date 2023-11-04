@@ -20,6 +20,50 @@
       "goals":[
         {"time" :"48","half":"2nd"}
       ]
+    },
+    "Saturday, 13 May 2023 CAT (UTC+2)":{
+      "venue":"away",
+      "team":"Blue Eagles",
+      "goals":[
+        {"time" :"48","half":"2nd"}
+      ]
+    }
+  },
+  "C Mpinganjira":{
+    "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "venue":"home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time":"55","half":"2nd"}
+      ]
+    }
+  },
+  "Ibrahin Sadick":{
+    "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "venue":"home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time":"71","half":"2nd"}
+      ]
+    }
+  },
+  "Ramadan Ntafu":{
+    "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "venue":"home",
+      "team":"Dedza Dynamos Salima",
+      "goals":[
+        {"time":"13","half":"1st"},
+        {"time":"27","half":"1st"}
+      ]
+    }
+  },
+  "Ken Mlenga":{
+    "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "venue":"home",
+      "team":"Dedza Dynamos Salima",
+      "goals":[
+        {"time":"76","half":"2nd"}
+      ]
     }
   },
   "Chikumbutso Salima":{

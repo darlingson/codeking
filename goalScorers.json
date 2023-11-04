@@ -1,11 +1,34 @@
 {
-  "C. Nyondo ":{
-    {
-    "team" : "Bangwe All Stars",
-    "day" : "Sunday, 16 April 2023 CAT (UTC+2)",
-    "goals":{
-      {"time":"84","half":"2nd"}
+  "C. Nyondo":{
+    "Sunday, 16 April 2023 CAT (UTC+2)" :{
+      "venue" : "home",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"84","half":"2nd"}
+      ]
+    },
+    "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "venue": "home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time": "32","half":"1st"}
+      ]
+    },
+    "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "venue":"away",
+      "team":"Chitipa United",
+      "goals":[
+        {"time" :"48","half":"2nd"}
+      ]
     }
+  },
+  "Chikumbutso Salima":{
+    "Sunday, 16 April 2023 CAT (UTC+2)":{
+      "venue":"away",
+      "team":"Dedza Dynamos Salima",
+      "goals":[
+        {"time":"65","half":"2nd"}
+      ]
     }
   }
 }

@@ -1,4 +1,37 @@
 {
+  "Ellie Kayombo":{
+    "Wednesday, 27 September 2023 CAT (UTC+2)" :{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue" : "away",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"85","half":"2nd"}
+      ]
+    }
+  },
+  "Youngson Mwisho":{
+    "Wednesday, 27 September 2023 CAT (UTC+2)" :{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue" : "away",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"87","half":"2nd"}
+      ]
+    }
+  },
+  "C. Chipala":{
+    "Wednesday, 27 September 2023 CAT (UTC+2)" :{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue" : "home",
+      "team" : "karonga United",
+      "goals":[
+        {"time":"70","half":"2nd"}
+      ]
+    }
+  },
   "C. Nyondo":{
     "Sunday, 16 April 2023 CAT (UTC+2)" :{
       "finalScore":"1-1",
@@ -107,6 +140,15 @@
       "venue":"home",
       "goals":[
         {"time" :"42","half":"1st"}
+      ]
+    },
+    "Wednesday, 27 September 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "team":"karonga United",
+      "venue":"home",
+      "goals":[
+        {"time" :"15","half":"1st"}
       ]
     }
   },

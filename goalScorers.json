@@ -1,4 +1,26 @@
 {
+  "Humphreys Minandi ":{
+    "Wednesday, 01 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-0",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Ekwendeni Hammers",
+      "goals":[
+        {"time":"55","half":"2nd"}
+      ]
+    }
+  },
+  "M. Paipi":{
+    "Wednesday, 01 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-0",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Chitipa United",
+      "goals":[
+        {"time":"07","half":"1st"}
+      ]
+    }
+  },
   "R. Saizi":{
     "Saturday, 04 November 2023 CAT (UTC+2)" :{
       "finalScore":"1-4",

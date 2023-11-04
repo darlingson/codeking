@@ -1,6 +1,8 @@
 {
   "C. Nyondo":{
     "Sunday, 16 April 2023 CAT (UTC+2)" :{
+      "finalScore":"1-1",
+      "result":"draw",
       "venue" : "home",
       "team" : "Bangwe All Stars",
       "goals":[
@@ -8,6 +10,8 @@
       ]
     },
     "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"won",
       "venue": "home",
       "team":"Kamuzu Barracks",
       "goals":[
@@ -15,6 +19,8 @@
       ]
     },
     "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-1",
+      "result":"lost",
       "venue":"away",
       "team":"Chitipa United",
       "goals":[
@@ -22,15 +28,41 @@
       ]
     },
     "Saturday, 13 May 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
       "venue":"away",
       "team":"Blue Eagles",
       "goals":[
-        {"time" :"48","half":"2nd"}
+        {"time" :"25","half":"1st"}
       ]
+    }
+  },
+  "C Gototo":{
+    "Saturday, 13 May 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue":"home",
+      "team":"Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"8","half":"1st"}
+      ]      
+    }
+  },
+  "M Mhone":{
+    "Saturday, 13 May 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue":"home",
+      "team":"Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"61","half":"2nd"}
+      ]      
     }
   },
   "C Mpinganjira":{
     "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"won",
       "venue":"home",
       "team":"Kamuzu Barracks",
       "goals":[
@@ -38,8 +70,10 @@
       ]
     }
   },
-  "Ibrahin Sadick":{
+  "Ibrahim Sadick":{
     "Sunday, 23 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"draw",
       "venue":"home",
       "team":"Kamuzu Barracks",
       "goals":[
@@ -49,6 +83,8 @@
   },
   "Ramadan Ntafu":{
     "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-1",
+      "result":"won",
       "venue":"home",
       "team":"Dedza Dynamos Salima",
       "goals":[
@@ -59,6 +95,8 @@
   },
   "Ken Mlenga":{
     "Saturday, 29 April 2023 CAT (UTC+2)":{
+      "finalScore":"3-1",
+      "result":"won",
       "venue":"home",
       "team":"Dedza Dynamos Salima",
       "goals":[
@@ -68,6 +106,8 @@
   },
   "Chikumbutso Salima":{
     "Sunday, 16 April 2023 CAT (UTC+2)":{
+      "finalScore":"1-1",
+      "result":"draw",
       "venue":"away",
       "team":"Dedza Dynamos Salima",
       "goals":[

@@ -1,4 +1,125 @@
 {
+  "R. Saizi":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-4",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Mighty Tigers",
+      "goals":[
+        {"time":"10","half":"1st"}
+      ]
+    }
+  },
+  "K. Ng'ambi":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-4",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Mighty Tigers",
+      "goals":[
+        {"time":"66","half":"2nd"}
+      ]
+    }
+  },
+  "Samuel Adeyemi":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-1",
+      "result":"lost",
+      "venue" : "away",
+      "team" : "Silver Strikers",
+      "goals":[
+        {"time":"14","half":"1st"}
+      ]
+    }
+  },
+  "J. Dambuleni":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"63","half":"2nd"}
+      ]
+    }
+  },
+  "B. Katinji":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"65","half":"2nd"}
+      ]
+    }
+  },
+  "C. Batson":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"69","half":"2nd"}
+      ]
+    }
+  },
+  "P. Chipingu":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "karonga United",
+      "goals":[
+        {"time":"29","half":"1st"}
+      ]
+    }
+  },
+  "G. Soko":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"1-4",
+      "result":"lost",
+      "venue" : "home",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"16","half":"1st"}
+      ]
+    }
+  },
+  "G. Chaomba":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-1",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Ekwendeni Hammers",
+      "goals":[
+        {"time":"89","half":"2nd"}
+      ]
+    }
+  },
+  "S. Davie":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-1",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Ekwendeni Hammers",
+      "goals":[
+        {"time":"73","half":"2nd"}
+      ]
+    }
+  },
+  "D. Nyoni":{
+    "Saturday, 04 November 2023 CAT (UTC+2)" :{
+      "finalScore":"3-1",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Ekwendeni Hammers",
+      "goals":[
+        {"time":"60","half":"2nd"}
+      ]
+    }
+  },
   "Ellie Kayombo":{
     "Wednesday, 27 September 2023 CAT (UTC+2)" :{
       "finalScore":"2-2",
@@ -357,6 +478,15 @@
       "team":"Dedza Dynamos Salima",
       "goals":[
         {"time":"65","half":"2nd"}
+      ]
+    },
+    "Saturday, 04 November 2023 CAT (UTC+2)":{
+      "finalScore":"1-4",
+      "result":"win",
+      "venue":"away",
+      "team":"Mighty Tigers",
+      "goals":[
+        {"time":"1","half":"1st"}
       ]
     }
   }

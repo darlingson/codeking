@@ -35,6 +35,120 @@
       "goals":[
         {"time" :"25","half":"1st"}
       ]
+    },
+    "Sunday, 28 May 2023 CAT (UTC+2)":{
+      "finalScore":"1-1",
+      "result":"draw",
+      "team":"Might Tigers",
+      "venue":"home",
+      "goals":[
+        {"time" :"28","half":"1st"}
+      ]
+    },
+    "Sunday, 04 June 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"Civil Service United",
+      "venue":"home",
+      "goals":[
+        {"time" :"60","half":"2nd"}
+      ]
+    },
+    "Sunday, 02 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"MAFCO",
+      "venue":"home",
+      "goals":[
+        {"time" :"8","half":"1st"},
+        {"time" :"57","half":"2nd"}
+      ]
+    },
+    "Sunday, 09 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"lost",
+      "team":"karonga United",
+      "venue":"away",
+      "goals":[
+        {"time" :"16","half":"1st"}
+      ]
+    }
+  },
+  "Saulos Moyo":{
+    "Sunday, 09 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"home",
+      "goals":[
+        {"time" :"18","half":"1st"}
+      ]
+    }
+  },
+  "J Duwa":{
+    "Sunday, 09 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"home",
+      "goals":[
+        {"time" :"36","half":"1st"}
+      ]
+    }
+  },
+  "M Masoatheka":{
+    "Sunday, 02 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"away",
+      "goals":[
+        {"time" :"88","half":"2nd"}
+      ]
+    }
+  },
+  "E Dakalira":{
+    "Sunday, 04 June 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"win",
+      "team":"Civil Service United",
+      "venue":"home",
+      "goals":[
+        {"time" :"46","half":"1st"}
+      ]
+    }
+  },
+  "M Biason":{
+    "Sunday, 04 June 2023 CAT (UTC+2)":{
+      "finalScore":"2-1",
+      "result":"lost",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"away",
+      "goals":[
+        {"time" :"10","half":"2nd"}
+      ]
+    }
+  },
+  "T Kajani":{
+    "Sunday, 28 May 2023 CAT (UTC+2)":{
+      "finalScore":"1-1",
+      "result":"draw",
+      "venue":"home",
+      "team":"Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time" :"47","half":"2nd"}
+      ]
+    }
+  },
+  "Lameck Gamphani":{
+    "Saturday, 13 May 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "venue":"home",
+      "team":"Blue Eagles",
+      "goals":[
+        {"time":"61","half":"2nd"}
+      ]
     }
   },
   "C Gototo":{

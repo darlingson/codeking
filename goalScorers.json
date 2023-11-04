@@ -72,6 +72,86 @@
       "goals":[
         {"time" :"16","half":"1st"}
       ]
+    },
+    "Sunday, 15 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "team":"FCB Nyasa Big Bullets",
+      "venue":"away",
+      "goals":[
+        {"time" :"10","half":"1st"}
+      ]
+    },
+    "Sunday, 30 July 2023 CAT (UTC+2)":{
+      "finalScore":"1-1",
+      "result":"draw",
+      "team":"Ekwendeni Hammers",
+      "venue":"away",
+      "goals":[
+        {"time" :"32","half":"1st"}
+      ]
+    },
+    "Sunday, 13 August 2023 CAT (UTC+2)":{
+      "finalScore":"1-0",
+      "result":"win",
+      "team":"Chitipa United",
+      "venue":"home",
+      "goals":[
+        {"time" :"40","half":"1st","penarty":true}
+      ]
+    },
+    "Sunday, 27 August 2023 CAT (UTC+2)":{
+      "finalScore":"2-0",
+      "result":"win",
+      "team":"Red Lions",
+      "venue":"home",
+      "goals":[
+        {"time" :"42","half":"1st"}
+      ]
+    }
+  },
+  "Limbani Phiri":{
+    "Sunday, 15 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "team":"FCB Nyasa Big Bullets",
+      "venue":"away",
+      "goals":[
+        {"time" :"62","half":"2nd"}
+      ]
+    }
+  },
+  "M Mgwira":{
+    "Sunday, 15 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"home",
+      "goals":[
+        {"time" :"53","half":"2nd"}
+      ]
+    }
+  },
+  "H Kajoke":{
+    "Sunday, 15 July 2023 CAT (UTC+2)":{
+      "finalScore":"2-2",
+      "result":"draw",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"home",
+      "goals":[
+        {"time" :"68","half":"2nd","penarty":true}
+      ]
+    }
+  },
+  "F. Demakude ":{
+    "Sunday, 30 July 2023 CAT (UTC+2)":{
+      "finalScore":"1-1",
+      "result":"draw",
+      "team":"Dedza Dynamos Salima Sugar",
+      "venue":"home",
+      "goals":[
+        {"time" :"88","half":"2nd","penarty":true}
+      ]
     }
   },
   "Saulos Moyo":{
@@ -192,6 +272,15 @@
       "team":"Kamuzu Barracks",
       "goals":[
         {"time":"71","half":"2nd"}
+      ]
+    },
+    "Sunday, 27 August 2023 CAT (UTC+2)":{
+      "finalScore":"2-0",
+      "result":"win",
+      "venue":"home",
+      "team":"Red Lions",
+      "goals":[
+        {"time":"50","half":"2nd","penarty":true}
       ]
     }
   },

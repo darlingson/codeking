@@ -449,7 +449,7 @@
       ]
     }
   },
-  "C Gototo":{
+  "C. Gototo":{
     "Saturday, 13 May 2023 CAT (UTC+2)":{
       "finalScore":"2-2",
       "result":"draw",
@@ -460,7 +460,7 @@
       ]      
     }
   },
-  "M Mhone":{
+  "M. Mhone":{
     "Saturday, 13 May 2023 CAT (UTC+2)":{
       "finalScore":"2-2",
       "result":"draw",
@@ -469,9 +469,18 @@
       "goals":[
         {"time":"61","half":"2nd"}
       ]      
-    }
+    },
+    "Saturday, 28 October 2023 CAT (UTC+2)":{
+      "finalScore":"0-3",
+      "result":"win",
+      "venue":"away",
+      "team":"Extreme",
+      "goals":[
+        {"time":"53","half":"2nd"}
+      ]      
+    }    
   },
-  "C Mpinganjira":{
+  "C. Mpinganjira":{
     "Sunday, 23 April 2023 CAT (UTC+2)":{
       "finalScore":"3-2",
       "result":"won",
@@ -479,6 +488,18 @@
       "team":"Kamuzu Barracks",
       "goals":[
         {"time":"55","half":"2nd"}
+      ]
+    }
+  },
+  "T. Viyuyi":{
+    "Saturday, 28 October 2023 CAT (UTC+2)":{
+      "finalScore":"0-3",
+      "result":"won",
+      "venue":"home",
+      "team":"Extreme",
+      "goals":[
+        {"time":"54","half":"2nd"},
+        {"time":"80","half":"2nd"}
       ]
     }
   },

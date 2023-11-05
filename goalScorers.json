@@ -503,6 +503,51 @@
       ]
     }
   },
+  "Ephraim Kondowe":{
+    "Wednesday, 25 October 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"won",
+      "venue":"home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time":"59","half":"2nd"}
+      ]
+    }
+  },
+  "M Gasten":{
+    "Wednesday, 25 October 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"won",
+      "venue":"home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time":"62","half":"2nd"}
+      ]
+    }
+  },
+  "Olson Kanjira":{
+    "Wednesday, 25 October 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"lost",
+      "venue":"away",
+      "team":"FCB Nyasa Big Bullets",
+      "goals":[
+        {"time":"11","half":"1st"},
+        {"time":"65","half":"2nd"}
+      ]
+    }
+  },
+  "L Nkhoma":{
+    "Wednesday, 25 October 2023 CAT (UTC+2)":{
+      "finalScore":"3-2",
+      "result":"won",
+      "venue":"home",
+      "team":"Kamuzu Barracks",
+      "goals":[
+        {"time":"68","half":"2nd"}
+      ]
+    }
+  },
   "Ibrahim Sadick":{
     "Sunday, 23 April 2023 CAT (UTC+2)":{
       "finalScore":"3-2",

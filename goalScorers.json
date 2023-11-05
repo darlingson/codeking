@@ -98,6 +98,28 @@
       ]
     }
   },
+  "P. Macheso":{
+    "Sunday, 22 October 2023 CAT (UTC+2)" :{
+      "finalScore":"0-2",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Mighty Tigers",
+      "goals":[
+        {"time":"71","half":"2nd"}
+      ]
+    }
+  },
+  "Emmanuel Kaunga":{
+    "Sunday, 22 October 2023 CAT (UTC+2)" :{
+      "finalScore":"0-2",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Mighty Tigers",
+      "goals":[
+        {"time":"83","half":"2nd"}
+      ]
+    }
+  },
   "P. Chipingu":{
     "Saturday, 04 November 2023 CAT (UTC+2)" :{
       "finalScore":"1-0",
@@ -522,6 +544,17 @@
       "team":"Kamuzu Barracks",
       "goals":[
         {"time":"62","half":"2nd"}
+      ]
+    }
+  },
+  "F Mandinga":{
+    "Wednesday, 25 October 2023 CAT (UTC+2)":{
+      "finalScore":"0-1",
+      "result":"won",
+      "venue":"away",
+      "team":"Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"45","half":"1st"}
       ]
     }
   },

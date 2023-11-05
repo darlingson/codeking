@@ -87,6 +87,17 @@
       ]
     }
   },
+  "P. Chilopi":{
+    "Sunday, 29 October 2023 CAT (UTC+2)" :{
+      "finalScore":"0-3",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"32","half":"1st"}
+      ]
+    }
+  },
   "P. Chipingu":{
     "Saturday, 04 November 2023 CAT (UTC+2)" :{
       "finalScore":"1-0",
@@ -95,6 +106,28 @@
       "team" : "karonga United",
       "goals":[
         {"time":"29","half":"1st"}
+      ]
+    }
+  },
+  "C. Kumwembe":{
+    "Sunday, 29 October 2023 CAT (UTC+2)" :{
+      "finalScore":"-3",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"67","half":"2nd"}
+      ]
+    }
+  },
+  "W. Mpinganjira":{
+    "Sunday, 29 October 2023 CAT (UTC+2)" :{
+      "finalScore":"-3",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"91","half":"2nd"}
       ]
     }
   },

@@ -30,6 +30,15 @@
       "goals":[
         {"time":"10","half":"1st"}
       ]
+    },
+    "Wednesday, 18 October 2023 CAT (UTC+2)" :{
+      "finalScore":"4-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"43","half":"1st"}
+      ]
     }
   },
   "K. Ng'ambi":{
@@ -150,6 +159,17 @@
       "team" : "Chitipa United",
       "goals":[
         {"time":"9","half":"1st"}
+      ]
+    }
+  },
+  "Emmanuel Saviel":{
+    "Wednesday, 18 October 2023 CAT (UTC+2)" :{
+      "finalScore":"3-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Bangwe All Stars",
+      "goals":[
+        {"time":"27","half":"1st"}
       ]
     }
   },
@@ -694,6 +714,15 @@
       "team":"Mighty Tigers",
       "goals":[
         {"time":"1","half":"1st"}
+      ]
+    },
+    "Wednesday, 18 October 2023 CAT (UTC+2)":{
+      "finalScore":"3-0",
+      "result":"win",
+      "venue":"home",
+      "team":"Dedza Dynamos Salima Sugar",
+      "goals":[
+        {"time":"71","half":"2nd"}
       ]
     }
   }

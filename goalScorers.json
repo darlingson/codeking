@@ -109,6 +109,50 @@
       ]
     }
   },
+  "Deus Mkutu":{
+    "Saturday, 21 October 2023 CAT (UTC+2)" :{
+      "finalScore":"2-1",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Extreme",
+      "goals":[
+        {"time":"18","half":"1st"}
+      ]
+    }
+  },
+  "M. Kaziputa":{
+    "Saturday, 21 October 2023 CAT (UTC+2)" :{
+      "finalScore":"2-1",
+      "result":"win",
+      "venue" : "away",
+      "team" : "Extreme",
+      "goals":[
+        {"time":"47","half":"2nd"}
+      ]
+    }
+  },
+  "B. Jimu":{
+    "Saturday, 21 October 2023 CAT (UTC+2)" :{
+      "finalScore":"2-1",
+      "result":"lost",
+      "venue" : "away",
+      "team" : "Red Lions",
+      "goals":[
+        {"time":"91","half":"2nd"}
+      ]
+    }
+  },
+  "Collins Okumu":{
+    "Saturday, 21 October 2023 CAT (UTC+2)" :{
+      "finalScore":"2-0",
+      "result":"win",
+      "venue" : "home",
+      "team" : "Chitipa United",
+      "goals":[
+        {"time":"9","half":"1st"}
+      ]
+    }
+  },
   "Emmanuel Kaunga":{
     "Sunday, 22 October 2023 CAT (UTC+2)" :{
       "finalScore":"0-2",
@@ -570,7 +614,7 @@
       ]
     }
   },
-  "L Nkhoma":{
+  "L. Nkhoma":{
     "Wednesday, 25 October 2023 CAT (UTC+2)":{
       "finalScore":"3-2",
       "result":"won",
@@ -578,6 +622,15 @@
       "team":"Kamuzu Barracks",
       "goals":[
         {"time":"68","half":"2nd"}
+      ]
+    },
+    "Saturday, 21 October 2023 CAT (UTC+2)":{
+      "finalScore":"2-0",
+      "result":"won",
+      "venue":"home",
+      "team":"Chitipa United",
+      "goals":[
+        {"time":"21","half":"1st"}
       ]
     }
   },

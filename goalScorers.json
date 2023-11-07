@@ -52,6 +52,17 @@
       ]
     }
   },
+  "L. Jere":{
+    "Tuesday, 17 October 2023 CAT (UTC+2)" :{
+      "finalScore":"2-3",
+      "result":"lost",
+      "venue" : "home",
+      "team" : "FCB Nyasa Big Bullets",
+      "goals":[
+        {"time":"2","half":"1st"}
+      ]
+    }
+  },
   "Samuel Adeyemi":{
     "Saturday, 04 November 2023 CAT (UTC+2)" :{
       "finalScore":"3-1",
@@ -425,6 +436,17 @@
       ]
     }
   },
+  "R. Phiri":{
+    "Tuesday, 17 October 2023 CAT (UTC+2)":{
+      "finalScore":"2-3",
+      "result":"lost",
+      "team":"FCB Nyasa Big Bullets",
+      "venue":"away",
+      "goals":[
+        {"time" :"85","half":"2nd"}
+      ]
+    }
+  },
   "M Mgwira":{
     "Sunday, 15 July 2023 CAT (UTC+2)":{
       "finalScore":"2-2",
@@ -598,6 +620,15 @@
       "goals":[
         {"time":"59","half":"2nd"}
       ]
+    },
+      "Tuesday, 17 October 2023 CAT (UTC+2)":{
+      "finalScore":"2-3",
+      "result":"won",
+      "venue":"away",
+      "team":"Moyale Barracks",
+      "goals":[
+        {"time":"8","half":"1st"}
+      ]
     }
   },
   "M Gasten":{
@@ -649,6 +680,15 @@
       "result":"won",
       "venue":"home",
       "team":"Chitipa United",
+      "goals":[
+        {"time":"21","half":"1st"}
+      ]
+    },
+    "Tuesday, 17 October 2023 CAT (UTC+2)":{
+      "finalScore":"2-3",
+      "result":"won",
+      "venue":"away",
+      "team":"Moyale Barracks",
       "goals":[
         {"time":"21","half":"1st"}
       ]

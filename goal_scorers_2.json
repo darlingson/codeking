@@ -1,78 +1,466 @@
-{"scorers":[{"name":'Humphreys Minandi ', 'day': 'Wednesday, 01 November 2023 CAT (UTC+2)', 'time': '55', 'half': '2nd'}
-{'name': 'M. Paipi', 'day': 'Wednesday, 01 November 2023 CAT (UTC+2)', 'time': '07', 'half': '1st'}
-{'name': 'R. Saizi', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '10', 'half': '1st'}
-{'name': 'R. Saizi', 'day': 'Wednesday, 18 October 2023 CAT (UTC+2)', 'time': '43', 'half': '1st'}
-{'name': "K. Ng'ambi", 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '66', 'half': '2nd'}
-{'name': 'L. Jere', 'day': 'Tuesday, 17 October 2023 CAT (UTC+2)', 'time': '2', 'half': '1st'}
-{'name': 'Samuel Adeyemi', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '14', 'half': '1st'}
-{'name': 'J. Dambuleni', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '63', 'half': '2nd'}
-{'name': 'B. Katinji', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '65', 'half': '2nd'}
-{'name': 'C. Batson', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '69', 'half': '2nd'}
-{'name': 'P. Chilopi', 'day': 'Sunday, 29 October 2023 CAT (UTC+2)', 'time': '32', 'half': '1st'}
-{'name': 'P. Macheso', 'day': 'Sunday, 22 October 2023 CAT (UTC+2)', 'time': '71', 'half': '2nd'}
-{'name': 'Deus Mkutu', 'day': 'Saturday, 21 October 2023 CAT (UTC+2)', 'time': '18', 'half': '1st'}
-{'name': 'M. Kaziputa', 'day': 'Saturday, 21 October 2023 CAT (UTC+2)', 'time': '47', 'half': '2nd'}
-{'name': 'B. Jimu', 'day': 'Saturday, 21 October 2023 CAT (UTC+2)', 'time': '91', 'half': '2nd'}
-{'name': 'Collins Okumu', 'day': 'Saturday, 21 October 2023 CAT (UTC+2)', 'time': '9', 'half': '1st'}
-{'name': 'Emmanuel Saviel', 'day': 'Wednesday, 18 October 2023 CAT (UTC+2)', 'time': '27', 'half': '1st'}
-{'name': 'Emmanuel Kaunga', 'day': 'Sunday, 22 October 2023 CAT (UTC+2)', 'time': '83', 'half': '2nd'}
-{'name': 'P. Chipingu', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '29', 'half': '1st'}
-{'name': 'C. Kumwembe', 'day': 'Sunday, 29 October 2023 CAT (UTC+2)', 'time': '67', 'half': '2nd'}
-{'name': 'W. Mpinganjira', 'day': 'Sunday, 29 October 2023 CAT (UTC+2)', 'time': '91', 'half': '2nd'}
-{'name': 'G. Soko', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '16', 'half': '1st'}
-{'name': 'G. Chaomba', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '89', 'half': '2nd'}
-{'name': 'S. Davie', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '73', 'half': '2nd'}
-{'name': 'D. Nyoni', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '60', 'half': '2nd'}
-{'name': 'Ellie Kayombo', 'day': 'Wednesday, 27 September 2023 CAT (UTC+2)', 'time': '85', 'half': '2nd'}
-{'name': 'Youngson Mwisho', 'day': 'Wednesday, 27 September 2023 CAT (UTC+2)', 'time': '87', 'half': '2nd'}
-{'name': 'C. Chipala', 'day': 'Wednesday, 27 September 2023 CAT (UTC+2)', 'time': '70', 'half': '2nd'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 16 April 2023 CAT (UTC+2)', 'time': '84', 'half': '2nd'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 23 April 2023 CAT (UTC+2)', 'time': '32', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Saturday, 29 April 2023 CAT (UTC+2)', 'time': '48', 'half': '2nd'}
-{'name': 'C. Nyondo', 'day': 'Saturday, 13 May 2023 CAT (UTC+2)', 'time': '25', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 28 May 2023 CAT (UTC+2)', 'time': '28', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 04 June 2023 CAT (UTC+2)', 'time': '60', 'half': '2nd'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 02 July 2023 CAT (UTC+2)', 'time': '8', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 02 July 2023 CAT (UTC+2)', 'time': '57', 'half': '2nd'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 09 July 2023 CAT (UTC+2)', 'time': '16', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 15 July 2023 CAT (UTC+2)', 'time': '10', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 30 July 2023 CAT (UTC+2)', 'time': '32', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 13 August 2023 CAT (UTC+2)', 'time': '40', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Sunday, 27 August 2023 CAT (UTC+2)', 'time': '42', 'half': '1st'}
-{'name': 'C. Nyondo', 'day': 'Wednesday, 27 September 2023 CAT (UTC+2)', 'time': '15', 'half': '1st'}
-{'name': 'Limbani Phiri', 'day': 'Sunday, 15 July 2023 CAT (UTC+2)', 'time': '62', 'half': '2nd'}
-{'name': 'R. Phiri', 'day': 'Tuesday, 17 October 2023 CAT (UTC+2)', 'time': '85', 'half': '2nd'}
-{'name': 'M Mgwira', 'day': 'Sunday, 15 July 2023 CAT (UTC+2)', 'time': '53', 'half': '2nd'}
-{'name': 'H Kajoke', 'day': 'Sunday, 15 July 2023 CAT (UTC+2)', 'time': '68', 'half': '2nd'}
-{'name': 'F. Demakude ', 'day': 'Sunday, 30 July 2023 CAT (UTC+2)', 'time': '88', 'half': '2nd'}
-{'name': 'Saulos Moyo', 'day': 'Sunday, 09 July 2023 CAT (UTC+2)', 'time': '18', 'half': '1st'}
-{'name': 'J Duwa', 'day': 'Sunday, 09 July 2023 CAT (UTC+2)', 'time': '36', 'half': '1st'}
-{'name': 'M Masoatheka', 'day': 'Sunday, 02 July 2023 CAT (UTC+2)', 'time': '88', 'half': '2nd'}
-{'name': 'E Dakalira', 'day': 'Sunday, 04 June 2023 CAT (UTC+2)', 'time': '46', 'half': '1st'}
-{'name': 'M Biason', 'day': 'Sunday, 04 June 2023 CAT (UTC+2)', 'time': '10', 'half': '2nd'}
-{'name': 'T Kajani', 'day': 'Sunday, 28 May 2023 CAT (UTC+2)', 'time': '47', 'half': '2nd'}
-{'name': 'Lameck Gamphani', 'day': 'Saturday, 13 May 2023 CAT (UTC+2)', 'time': '61', 'half': '2nd'}
-{'name': 'C. Gototo', 'day': 'Saturday, 13 May 2023 CAT (UTC+2)', 'time': '8', 'half': '1st'}
-{'name': 'M. Mhone', 'day': 'Saturday, 13 May 2023 CAT (UTC+2)', 'time': '61', 'half': '2nd'}
-{'name': 'M. Mhone', 'day': 'Saturday, 28 October 2023 CAT (UTC+2)', 'time': '53', 'half': '2nd'}
-{'name': 'C. Mpinganjira', 'day': 'Sunday, 23 April 2023 CAT (UTC+2)', 'time': '55', 'half': '2nd'}
-{'name': 'T. Viyuyi', 'day': 'Saturday, 28 October 2023 CAT (UTC+2)', 'time': '54', 'half': '2nd'}
-{'name': 'T. Viyuyi', 'day': 'Saturday, 28 October 2023 CAT (UTC+2)', 'time': '80', 'half': '2nd'}
-{'name': 'Ephraim Kondowe', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '59', 'half': '2nd'}
-{'name': 'Ephraim Kondowe', 'day': 'Tuesday, 17 October 2023 CAT (UTC+2)', 'time': '8', 'half': '1st'}
-{'name': 'M Gasten', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '62', 'half': '2nd'}
-{'name': 'F Mandinga', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '45', 'half': '1st'}
-{'name': 'Olson Kanjira', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '11', 'half': '1st'}
-{'name': 'Olson Kanjira', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '65', 'half': '2nd'}
-{'name': 'L. Nkhoma', 'day': 'Wednesday, 25 October 2023 CAT (UTC+2)', 'time': '68', 'half': '2nd'}
-{'name': 'L. Nkhoma', 'day': 'Saturday, 21 October 2023 CAT (UTC+2)', 'time': '21', 'half': '1st'}
-{'name': 'L. Nkhoma', 'day': 'Tuesday, 17 October 2023 CAT (UTC+2)', 'time': '21', 'half': '1st'}
-{'name': 'Ibrahim Sadick', 'day': 'Sunday, 23 April 2023 CAT (UTC+2)', 'time': '71', 'half': '2nd'}
-{'name': 'Ibrahim Sadick', 'day': 'Sunday, 27 August 2023 CAT (UTC+2)', 'time': '50', 'half': '2nd'}
-{'name': 'Ramadan Ntafu', 'day': 'Saturday, 29 April 2023 CAT (UTC+2)', 'time': '13', 'half': '1st'}
-{'name': 'Ramadan Ntafu', 'day': 'Saturday, 29 April 2023 CAT (UTC+2)', 'time': '27', 'half': '1st'}
-{'name': 'Ken Mlenga', 'day': 'Saturday, 29 April 2023 CAT (UTC+2)', 'time': '76', 'half': '2nd'}
-{'name': 'Chikumbutso Salima', 'day': 'Sunday, 16 April 2023 CAT (UTC+2)', 'time': '65', 'half': '2nd'}
-{'name': 'Chikumbutso Salima', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '1', 'half': '1st'}
-{'name': 'Chikumbutso Salima', 'day': 'Wednesday, 18 October 2023 CAT (UTC+2)', 'time': '71', 'half': '2nd'}
-]}
+{
+    "scorers": [
+        {
+            "name": "Humphreys Minandi ",
+            "day": "Wednesday, 01 November 2023 CAT (UTC+2)",
+            "time": "55",
+            "half": "2nd"
+        },
+        {
+            "name": "M. Paipi",
+            "day": "Wednesday, 01 November 2023 CAT (UTC+2)",
+            "time": "07",
+            "half": "1st"
+        },
+        {
+            "name": "R. Saizi",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "10",
+            "half": "1st"
+        },
+        {
+            "name": "R. Saizi",
+            "day": "Wednesday, 18 October 2023 CAT (UTC+2)",
+            "time": "43",
+            "half": "1st"
+        },
+        {
+            "name": "K. Ng'ambi",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "66",
+            "half": "2nd"
+        },
+        {
+            "name": "L. Jere",
+            "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
+            "time": "2",
+            "half": "1st"
+        },
+        {
+            "name": "Samuel Adeyemi",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "14",
+            "half": "1st"
+        },
+        {
+            "name": "J. Dambuleni",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "63",
+            "half": "2nd"
+        },
+        {
+            "name": "B. Katinji",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "65",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Batson",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "69",
+            "half": "2nd"
+        },
+        {
+            "name": "P. Chilopi",
+            "day": "Sunday, 29 October 2023 CAT (UTC+2)",
+            "time": "32",
+            "half": "1st"
+        },
+        {
+            "name": "P. Macheso",
+            "day": "Sunday, 22 October 2023 CAT (UTC+2)",
+            "time": "71",
+            "half": "2nd"
+        },
+        {
+            "name": "Deus Mkutu",
+            "day": "Saturday, 21 October 2023 CAT (UTC+2)",
+            "time": "18",
+            "half": "1st"
+        },
+        {
+            "name": "M. Kaziputa",
+            "day": "Saturday, 21 October 2023 CAT (UTC+2)",
+            "time": "47",
+            "half": "2nd"
+        },
+        {
+            "name": "B. Jimu",
+            "day": "Saturday, 21 October 2023 CAT (UTC+2)",
+            "time": "91",
+            "half": "2nd"
+        },
+        {
+            "name": "Collins Okumu",
+            "day": "Saturday, 21 October 2023 CAT (UTC+2)",
+            "time": "9",
+            "half": "1st"
+        },
+        {
+            "name": "Emmanuel Saviel",
+            "day": "Wednesday, 18 October 2023 CAT (UTC+2)",
+            "time": "27",
+            "half": "1st"
+        },
+        {
+            "name": "Emmanuel Kaunga",
+            "day": "Sunday, 22 October 2023 CAT (UTC+2)",
+            "time": "83",
+            "half": "2nd"
+        },
+        {
+            "name": "P. Chipingu",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "29",
+            "half": "1st"
+        },
+        {
+            "name": "C. Kumwembe",
+            "day": "Sunday, 29 October 2023 CAT (UTC+2)",
+            "time": "67",
+            "half": "2nd"
+        },
+        {
+            "name": "W. Mpinganjira",
+            "day": "Sunday, 29 October 2023 CAT (UTC+2)",
+            "time": "91",
+            "half": "2nd"
+        },
+        {
+            "name": "G. Soko",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "16",
+            "half": "1st"
+        },
+        {
+            "name": "G. Chaomba",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "89",
+            "half": "2nd"
+        },
+        {
+            "name": "S. Davie",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "73",
+            "half": "2nd"
+        },
+        {
+            "name": "D. Nyoni",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "60",
+            "half": "2nd"
+        },
+        {
+            "name": "Ellie Kayombo",
+            "day": "Wednesday, 27 September 2023 CAT (UTC+2)",
+            "time": "85",
+            "half": "2nd"
+        },
+        {
+            "name": "Youngson Mwisho",
+            "day": "Wednesday, 27 September 2023 CAT (UTC+2)",
+            "time": "87",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Chipala",
+            "day": "Wednesday, 27 September 2023 CAT (UTC+2)",
+            "time": "70",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 16 April 2023 CAT (UTC+2)",
+            "time": "84",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 23 April 2023 CAT (UTC+2)",
+            "time": "32",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Saturday, 29 April 2023 CAT (UTC+2)",
+            "time": "48",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Saturday, 13 May 2023 CAT (UTC+2)",
+            "time": "25",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 28 May 2023 CAT (UTC+2)",
+            "time": "28",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 04 June 2023 CAT (UTC+2)",
+            "time": "60",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 02 July 2023 CAT (UTC+2)",
+            "time": "8",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 02 July 2023 CAT (UTC+2)",
+            "time": "57",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 09 July 2023 CAT (UTC+2)",
+            "time": "16",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 15 July 2023 CAT (UTC+2)",
+            "time": "10",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 30 July 2023 CAT (UTC+2)",
+            "time": "32",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 13 August 2023 CAT (UTC+2)",
+            "time": "40",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Sunday, 27 August 2023 CAT (UTC+2)",
+            "time": "42",
+            "half": "1st"
+        },
+        {
+            "name": "C. Nyondo",
+            "day": "Wednesday, 27 September 2023 CAT (UTC+2)",
+            "time": "15",
+            "half": "1st"
+        },
+        {
+            "name": "Limbani Phiri",
+            "day": "Sunday, 15 July 2023 CAT (UTC+2)",
+            "time": "62",
+            "half": "2nd"
+        },
+        {
+            "name": "R. Phiri",
+            "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
+            "time": "85",
+            "half": "2nd"
+        },
+        {
+            "name": "M Mgwira",
+            "day": "Sunday, 15 July 2023 CAT (UTC+2)",
+            "time": "53",
+            "half": "2nd"
+        },
+        {
+            "name": "H Kajoke",
+            "day": "Sunday, 15 July 2023 CAT (UTC+2)",
+            "time": "68",
+            "half": "2nd"
+        },
+        {
+            "name": "F. Demakude ",
+            "day": "Sunday, 30 July 2023 CAT (UTC+2)",
+            "time": "88",
+            "half": "2nd"
+        },
+        {
+            "name": "Saulos Moyo",
+            "day": "Sunday, 09 July 2023 CAT (UTC+2)",
+            "time": "18",
+            "half": "1st"
+        },
+        {
+            "name": "J Duwa",
+            "day": "Sunday, 09 July 2023 CAT (UTC+2)",
+            "time": "36",
+            "half": "1st"
+        },
+        {
+            "name": "M Masoatheka",
+            "day": "Sunday, 02 July 2023 CAT (UTC+2)",
+            "time": "88",
+            "half": "2nd"
+        },
+        {
+            "name": "E Dakalira",
+            "day": "Sunday, 04 June 2023 CAT (UTC+2)",
+            "time": "46",
+            "half": "1st"
+        },
+        {
+            "name": "M Biason",
+            "day": "Sunday, 04 June 2023 CAT (UTC+2)",
+            "time": "10",
+            "half": "2nd"
+        },
+        {
+            "name": "T Kajani",
+            "day": "Sunday, 28 May 2023 CAT (UTC+2)",
+            "time": "47",
+            "half": "2nd"
+        },
+        {
+            "name": "Lameck Gamphani",
+            "day": "Saturday, 13 May 2023 CAT (UTC+2)",
+            "time": "61",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Gototo",
+            "day": "Saturday, 13 May 2023 CAT (UTC+2)",
+            "time": "8",
+            "half": "1st"
+        },
+        {
+            "name": "M. Mhone",
+            "day": "Saturday, 13 May 2023 CAT (UTC+2)",
+            "time": "61",
+            "half": "2nd"
+        },
+        {
+            "name": "M. Mhone",
+            "day": "Saturday, 28 October 2023 CAT (UTC+2)",
+            "time": "53",
+            "half": "2nd"
+        },
+        {
+            "name": "C. Mpinganjira",
+            "day": "Sunday, 23 April 2023 CAT (UTC+2)",
+            "time": "55",
+            "half": "2nd"
+        },
+        {
+            "name": "T. Viyuyi",
+            "day": "Saturday, 28 October 2023 CAT (UTC+2)",
+            "time": "54",
+            "half": "2nd"
+        },
+        {
+            "name": "T. Viyuyi",
+            "day": "Saturday, 28 October 2023 CAT (UTC+2)",
+            "time": "80",
+            "half": "2nd"
+        },
+        {
+            "name": "Ephraim Kondowe",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "59",
+            "half": "2nd"
+        },
+        {
+            "name": "Ephraim Kondowe",
+            "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
+            "time": "8",
+            "half": "1st"
+        },
+        {
+            "name": "M Gasten",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "62",
+            "half": "2nd"
+        },
+        {
+            "name": "F Mandinga",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "45",
+            "half": "1st"
+        },
+        {
+            "name": "Olson Kanjira",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "11",
+            "half": "1st"
+        },
+        {
+            "name": "Olson Kanjira",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "65",
+            "half": "2nd"
+        },
+        {
+            "name": "L. Nkhoma",
+            "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
+            "time": "68",
+            "half": "2nd"
+        },
+        {
+            "name": "L. Nkhoma",
+            "day": "Saturday, 21 October 2023 CAT (UTC+2)",
+            "time": "21",
+            "half": "1st"
+        },
+        {
+            "name": "L. Nkhoma",
+            "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
+            "time": "21",
+            "half": "1st"
+        },
+        {
+            "name": "Ibrahim Sadick",
+            "day": "Sunday, 23 April 2023 CAT (UTC+2)",
+            "time": "71",
+            "half": "2nd"
+        },
+        {
+            "name": "Ibrahim Sadick",
+            "day": "Sunday, 27 August 2023 CAT (UTC+2)",
+            "time": "50",
+            "half": "2nd"
+        },
+        {
+            "name": "Ramadan Ntafu",
+            "day": "Saturday, 29 April 2023 CAT (UTC+2)",
+            "time": "13",
+            "half": "1st"
+        },
+        {
+            "name": "Ramadan Ntafu",
+            "day": "Saturday, 29 April 2023 CAT (UTC+2)",
+            "time": "27",
+            "half": "1st"
+        },
+        {
+            "name": "Ken Mlenga",
+            "day": "Saturday, 29 April 2023 CAT (UTC+2)",
+            "time": "76",
+            "half": "2nd"
+        },
+        {
+            "name": "Chikumbutso Salima",
+            "day": "Sunday, 16 April 2023 CAT (UTC+2)",
+            "time": "65",
+            "half": "2nd"
+        },
+        {
+            "name": "Chikumbutso Salima",
+            "day": "Saturday, 04 November 2023 CAT (UTC+2)",
+            "time": "1",
+            "half": "1st"
+        },
+        {
+            "name": "Chikumbutso Salima",
+            "day": "Wednesday, 18 October 2023 CAT (UTC+2)",
+            "time": "71",
+            "half": "2nd"
+        }
+    ]
+}

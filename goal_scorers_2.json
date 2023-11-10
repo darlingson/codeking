@@ -1,4 +1,4 @@
-{'name': 'Humphreys Minandi ', 'day': 'Wednesday, 01 November 2023 CAT (UTC+2)', 'time': '55', 'half': '2nd'}
+{"scorers":[{"name":'Humphreys Minandi ', 'day': 'Wednesday, 01 November 2023 CAT (UTC+2)', 'time': '55', 'half': '2nd'}
 {'name': 'M. Paipi', 'day': 'Wednesday, 01 November 2023 CAT (UTC+2)', 'time': '07', 'half': '1st'}
 {'name': 'R. Saizi', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '10', 'half': '1st'}
 {'name': 'R. Saizi', 'day': 'Wednesday, 18 October 2023 CAT (UTC+2)', 'time': '43', 'half': '1st'}
@@ -75,3 +75,4 @@
 {'name': 'Chikumbutso Salima', 'day': 'Sunday, 16 April 2023 CAT (UTC+2)', 'time': '65', 'half': '2nd'}
 {'name': 'Chikumbutso Salima', 'day': 'Saturday, 04 November 2023 CAT (UTC+2)', 'time': '1', 'half': '1st'}
 {'name': 'Chikumbutso Salima', 'day': 'Wednesday, 18 October 2023 CAT (UTC+2)', 'time': '71', 'half': '2nd'}
+]}

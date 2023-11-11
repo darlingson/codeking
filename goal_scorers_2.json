@@ -45,7 +45,7 @@
             "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
             "score": "2-3",
             "time": "2",
-            "result": "lost",
+            "result": "loss",
             "venue": "home"
         },
         {
@@ -53,7 +53,7 @@
             "day": "Saturday, 04 November 2023 CAT (UTC+2)",
             "score": "3-1",
             "time": "14",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -117,7 +117,7 @@
             "day": "Saturday, 21 October 2023 CAT (UTC+2)",
             "score": "2-1",
             "time": "91",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -173,7 +173,7 @@
             "day": "Saturday, 04 November 2023 CAT (UTC+2)",
             "score": "1-4",
             "time": "16",
-            "result": "lost",
+            "result": "loss",
             "venue": "home"
         },
         {
@@ -237,15 +237,51 @@
             "day": "Sunday, 23 April 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "32",
-            "result": "won",
+            "result": "win",
             "venue": "home"
+        },
+        {
+            "name": "J. Robert",
+            "day": "Monday, 16 October 2023 CAT (UTC+2)",
+            "score": "2-2",
+            "time": "36",
+            "opponent":"Blue Eagles",
+            "result": "draw",
+            "venue": "home"
+        },
+        {
+            "name": "Jack Beza",
+            "day": "Monday, 16 October 2023 CAT (UTC+2)",
+            "score": "2-2",
+            "time": "41",
+            "opponent":"Blue Eagles",
+            "result": "draw",
+            "venue": "home"
+        },
+        {
+            "name": "K, Kuwali",
+            "day": "Monday, 16 October 2023 CAT (UTC+2)",
+            "score": "2-2",
+            "time": "3",
+            "opponent":"Chitipa United",
+            "result": "draw",
+            "venue": "away"
+        },
+        {
+            "name": "H, Misinde",
+            "day": "Monday, 16 October 2023 CAT (UTC+2)",
+            "score": "2-2",
+            "time": "87",
+            "opponent":"Chitipa United",
+            "result": "draw",
+            "venue": "away"
         },
         {
             "name": "C. Nyondo",
             "day": "Saturday, 29 April 2023 CAT (UTC+2)",
             "score": "3-1",
             "time": "48",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -293,7 +329,7 @@
             "day": "Sunday, 09 July 2023 CAT (UTC+2)",
             "score": "2-1",
             "time": "16",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -349,7 +385,7 @@
             "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
             "score": "2-3",
             "time": "85",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -413,7 +449,7 @@
             "day": "Sunday, 04 June 2023 CAT (UTC+2)",
             "score": "2-1",
             "time": "10",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -461,7 +497,7 @@
             "day": "Sunday, 23 April 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "55",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -469,7 +505,7 @@
             "day": "Saturday, 28 October 2023 CAT (UTC+2)",
             "score": "0-3",
             "time": "54",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -477,7 +513,7 @@
             "day": "Saturday, 28 October 2023 CAT (UTC+2)",
             "score": "0-3",
             "time": "80",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -485,7 +521,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "59",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -493,7 +529,15 @@
             "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
             "score": "2-3",
             "time": "8",
-            "result": "won",
+            "result": "win",
+            "venue": "away"
+        },
+        {
+            "name": "Ephraim Kondowe",
+            "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
+            "score": "2-3",
+            "time": "47",
+            "result": "win",
             "venue": "away"
         },
         {
@@ -501,7 +545,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "62",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -509,7 +553,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "0-1",
             "time": "45",
-            "result": "won",
+            "result": "win",
             "venue": "away"
         },
         {
@@ -517,7 +561,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "11",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -525,7 +569,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "65",
-            "result": "lost",
+            "result": "loss",
             "venue": "away"
         },
         {
@@ -533,7 +577,7 @@
             "day": "Wednesday, 25 October 2023 CAT (UTC+2)",
             "score": "3-2",
             "time": "68",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -541,7 +585,7 @@
             "day": "Saturday, 21 October 2023 CAT (UTC+2)",
             "score": "2-0",
             "time": "21",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -549,7 +593,7 @@
             "day": "Tuesday, 17 October 2023 CAT (UTC+2)",
             "score": "2-3",
             "time": "21",
-            "result": "won",
+            "result": "win",
             "venue": "away"
         },
         {
@@ -573,7 +617,7 @@
             "day": "Saturday, 29 April 2023 CAT (UTC+2)",
             "score": "3-1",
             "time": "13",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -581,7 +625,7 @@
             "day": "Saturday, 29 April 2023 CAT (UTC+2)",
             "score": "3-1",
             "time": "27",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -589,7 +633,7 @@
             "day": "Saturday, 29 April 2023 CAT (UTC+2)",
             "score": "3-1",
             "time": "76",
-            "result": "won",
+            "result": "win",
             "venue": "home"
         },
         {
@@ -599,6 +643,14 @@
             "time": "65",
             "result": "draw",
             "venue": "away"
+        },
+        {
+            "name": "C. Idana",
+            "day": "Monday, 16 October 2023 CAT (UTC+2)",
+            "score": "1-0",
+            "time": "84",
+            "result": "win",
+            "venue": "home"
         },
         {
             "name": "Chikumbutso Salima",

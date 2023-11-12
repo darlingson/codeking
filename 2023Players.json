@@ -1,0 +1,717 @@
+[
+ {
+   "Name": "D. Nyoni",
+   "Position": "",
+   "Team": " Silver Strikers"
+ },
+ {
+   "Name": "S. Davie",
+   "Position": "",
+   "Team": " Silver Strikers"
+ },
+ {
+   "Name": "G. Chaomba",
+   "Position": "",
+   "Team": " Silver Strikers"
+ },
+ {
+   "Name": "Samuel Adeyemi",
+   "Position": "",
+   "Team": "Ekwendeni Hammers"
+ },
+ {
+   "Name": "J. Dambuleni",
+   "Position": "",
+   "Team": "Civil Service United"
+ },
+ {
+   "Name": "B. Katinji",
+   "Position": "",
+   "Team": "Civil Service United"
+ },
+ {
+   "Name": "C. Batson",
+   "Position": "",
+   "Team": "Civil Service United"
+ },
+ {
+   "Name": "P. Chipungu",
+   "Position": "",
+   "Team": " Mighty Tigers"
+ },
+ {
+   "Name": "Chikumbutso Salima",
+   "Position": "",
+   "Team": "Bangwe All Stars"
+ },
+ {
+   "Name": "R. Saizi",
+   "Position": "",
+   "Team": "Bangwe All Stars"
+ },
+ {
+   "Name": "K. Ng'ambi",
+   "Position": "",
+   "Team": "Bangwe All Stars"
+ },
+ {
+   "Name": "G. Soko",
+   "Position": "",
+   "Team": "MAFCO"
+ },
+ {
+   "Name": "Paipi",
+   "Position": "",
+   "Team": "Silver Strikers"
+ },
+ {
+   "Name": "Humphreys Minandi",
+   "Position": "",
+   "Team": "Red Lions"
+ },
+ {
+   "Name": "P. Cholopi",
+   "Position": "",
+   "Team": "Mighty Mukuru Wanderers"
+ },
+ {
+   "Name": "C. Kumwembe",
+   "Position": "",
+   "Team": "Mighty Mukuru Wanderers"
+ },
+ {
+   "Name": "W. Mpinganjira",
+   "Position": "",
+   "Team": "Mighty Mukuru Wanderers"
+ },
+ {
+   "Name": "M. Mhone 53'",
+   "Position": "",
+   "Team": "Blue Eagles"
+ },
+ {
+   "Name": "T. Viyuyi",
+   "Position": "",
+   "Team": "Blue Eagles"
+ },
+ {
+   "Name": "M. Gasten",
+   "Position": "",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "L. Nkhoma",
+   "Position": "",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Olson Kanjira",
+   "Position": "",
+   "Team": "Kamuzu Barracks"
+ },
+ {
+   "Name": "F. Madinga",
+   "Position": "",
+   "Team": "Mighty Mukuru Wanderers"
+ },
+ {
+   "Name": "P. Macheso",
+   "Position": "",
+   "Team": "Mighty Tigers"
+ },
+ {
+   "Name": "Deus Mkutu",
+   "Position": "",
+   "Team": "Red Lions"
+ },
+ {
+   "Name": "Rabson Chiyenda",
+   "Position": "Goalkeeper",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Richard Chimbamba",
+   "Position": "Goalkeeper",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Clever Mkungula",
+   "Position": "Goalkeeper",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "John Lanjesi",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Nickson Nyasulu",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Kesten Simbi",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Gomezgani Chirwa",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Clyde Senaji Navade",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Collins Okumu",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Blessings Mpokera",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Alick Lungu",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Precious Sambani",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Erick Kaonga",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Yamikani Fodya",
+   "Position": "Defender",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Frank Willard",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Henry Kabichi",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Chawanangwa Gumbo",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Yankho Singo",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Thomson Magombo",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Mike Mkwate",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Ernest Petro",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Kenneth Pasuwa",
+   "Position": "Midfielder",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "McFallen Mgwira",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Precious Phiri",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Patrick Mwaungulu",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Righteous Banda",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Lanjesi Nkhoma",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Stanley Billiat",
+   "Position": "Winger",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Anthony Mfune",
+   "Position": "Forward",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Maxwell Phodo",
+   "Position": "Forward",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Hassan Kajoke",
+   "Position": "Forward",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Chinedu Okafor",
+   "Position": "Forward",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "Ephraim Kondowe",
+   "Position": "Forward",
+   "Team": "FCB Nyasa Big Bullets"
+ },
+ {
+   "Name": "WILLIAM THOLE",
+   "Position": "Goalkeeper",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "RICHARD CHIPUWA",
+   "Position": "Goalkeeper",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "ADELEKE KOLAWOLE",
+   "Position": "Defender",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "PETER CHOLOPI",
+   "Position": "Defender",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "STANLEY SANUDI",
+   "Position": "Defender",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "MIRACLE GABEYA",
+   "Position": "Defender",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "ALFRED MANYOZO JNR",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "BALIKIN HO MWAKANYANGO",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "FELIX ZULU",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "VITUMBIKO KUMWENDA",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "FRANCIS NKONDA",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "ISAAC KALIATI",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "WISDOM MPINGANJIRA",
+   "Position": "Midfielder",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "VINCENT NYANGULU",
+   "Position": "Forward",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "MISHECK BOTOMAN",
+   "Position": "Forward",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "CHIUKEPO MSOWOYA",
+   "Position": "Forward",
+   "Team": "Might Wanderers"
+ },
+ {
+   "Name": "BLESSINGS JUMA",
+   "Position": "Goalkeeper",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "ARON CHIKUNI",
+   "Position": "Defender",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "DANIEL MPONYA",
+   "Position": "Defender",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "JOHN CHALAMANDA",
+   "Position": "Defender",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "FRANCIS PUKUSU",
+   "Position": "Defender",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "GRIFFIN NG'ANJO",
+   "Position": "Midfielder",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "JUNIOR BANDA",
+   "Position": "Midfielder",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "BESTON JIMU",
+   "Position": "Midfielder",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "GREGORY MWASE",
+   "Position": "Striker",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "CHIFUNDO GEORGE",
+   "Position": "Striker",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "MAVUTO CHIPOLOPOLO",
+   "Position": "Striker",
+   "Team": "Extreme"
+ },
+ {
+   "Name": "Lumbani Chitete",
+   "Position": "Goalkeeper",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Richard Mwaila",
+   "Position": "Goalkeeper",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Tione Tembo",
+   "Position": "Goalkeeper",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Bashir Puyol Maunde",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Boston Kabango",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Erick Atsigah",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Willard Dickson",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Kelvin Kadzinje",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Timothy Silwimbi",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "John Dambuleni",
+   "Position": "Defender",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Dan Kumwenda",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Henry Msowoya",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Victor Lungu",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Moses Banda",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Lloyd Aaron",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Shukran Mwawa",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Arnold Masamba",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "William Mwalwimbi",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Muhamad Baison",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Innocent Tanganyika",
+   "Position": "Midfielder",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Lanken Mwale",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Luke Chima",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Juma Yatina",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Shasimbiwe Kanyika",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Patrick Phiri",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Chikaiko Batison",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Binwell Katinji",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Christopher Kumwembe",
+   "Position": "Striker",
+   "Team": "Civo United"
+ },
+ {
+   "Name": "Charles Thom",
+   "Position": "GOALKEEPER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Pilirani Mapira",
+   "Position": "GOALKEEPER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Emance Nyirenda",
+   "Position": "GOALKEEPER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Charles Chisale",
+   "Position": "GOALKEEPER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Mark Fodya",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Nickson Mwase",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Tatenda M'balaka",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Maxwell Paipi",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Innocent Shema",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Chisomo Mpachika",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Emmanuel Kaunga",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Haddy Ng'andu",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Dan Sandukila",
+   "Position": "DEFENDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Chimwemwe Idana",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Zebron Kalima",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Chinsisi Maonga",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Phillip Banda",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Duncan Nyoni",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Patrick Macheso",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Tathedwa Willard",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Uchizi Vunga",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Emmanuel Muyira",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Chikondi Kamanga",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Francis Nyirenda",
+   "Position": "MIDFIELDER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Stain Davie",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Madalitso Maso",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "China Chirwa",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Atusaye Nyondo",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Rodwell Robert",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ },
+ {
+   "Name": "Gift Chunga",
+   "Position": "STRIKER",
+   "Team": "Silver Striker"
+ }
+]

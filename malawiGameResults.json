@@ -1,842 +1,962 @@
 [
   {
-    "date": "26.03. 14:00",
+    "date": "26.03.2024",
     "homeTeam": "Malawi",
     "awayTeam": "Zambia",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Friendly International"
   },
   {
-    "date": "23.03. 17:00",
+    "date": "23.03.2024",
     "homeTeam": "Malawi",
     "awayTeam": "Kenya",
     "homeScore": 0,
-    "awayScore": 4
+    "awayScore": 4,
+    "competition": "Friendly International"
   },
   {
     "date": "21.11.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Tunisia",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "17.11.2023",
     "homeTeam": "Liberia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "09.09.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Guinea",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
-    "date": "16.07.2023Pen",
+    "date": "16.07.2023 Pen",
     "homeTeam": "Malawi",
     "awayTeam": "South Africa",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup - Play Offs"
   },
   {
     "date": "14.07.2023Pen",
     "homeTeam": "Malawi",
     "awayTeam": "Lesotho",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup - Play Offs"
   },
   {
     "date": "11.07.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Comoros",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "09.07.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Seychelles",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "06.07.2023",
     "homeTeam": "Zambia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "20.06.2023",
     "homeTeam": "Ethiopia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "14.06.2023",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "28.03.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Egypt",
     "homeScore": 0,
-    "awayScore": 4
+    "awayScore": 4,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "24.03.2023",
     "homeTeam": "Egypt",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "15.03.2023",
     "homeTeam": "Bangladesh",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "25.02.2023",
     "homeTeam": "Malawi",
     "awayTeam": "Lesotho",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "04.09.2022",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "27.08.2022",
     "homeTeam": "Malawi",
     "awayTeam": "Mozambique",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "29.07.2022Awrd",
     "homeTeam": "Zimbabwe",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 3
+    "awayScore": 3,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "23.07.2022Awrd",
     "homeTeam": "Malawi",
     "awayTeam": "Zimbabwe",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "10.07.2022",
     "homeTeam": "Mauritius",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "08.07.2022",
     "homeTeam": "Malawi",
     "awayTeam": "Eswatini",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "06.07.2022",
     "homeTeam": "Lesotho",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "09.06.2022",
     "homeTeam": "Guinea",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "05.06.2022",
     "homeTeam": "Malawi",
     "awayTeam": "Ethiopia",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "25.01.2022",
     "homeTeam": "Morocco",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Play Offs"
   },
   {
     "date": "18.01.2022",
     "homeTeam": "Malawi",
     "awayTeam": "Senegal",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations"
   },
   {
     "date": "14.01.2022",
     "homeTeam": "Malawi",
     "awayTeam": "Zimbabwe",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations"
   },
   {
     "date": "10.01.2022",
     "homeTeam": "Guinea",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations"
   },
   {
     "date": "16.11.2021",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "13.11.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Cameroon",
     "homeScore": 0,
-    "awayScore": 4
+    "awayScore": 4,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "11.10.2021",
     "homeTeam": "Ivory Coast",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "08.10.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Ivory Coast",
     "homeScore": 0,
-    "awayScore": 3
+    "awayScore": 3,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "07.09.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Mozambique",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "03.09.2021",
     "homeTeam": "Cameroon",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "14.07.2021",
     "homeTeam": "Senegal",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "13.07.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Namibia",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "11.07.2021",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "09.07.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Zimbabwe",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "13.06.2021",
     "homeTeam": "Tanzania",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "29.03.2021",
     "homeTeam": "Malawi",
     "awayTeam": "Uganda",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "24.03.2021",
     "homeTeam": "South Sudan",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "17.03.2021",
     "homeTeam": "Ethiopia",
     "awayTeam": "Malawi",
     "homeScore": 4,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "16.11.2020",
     "homeTeam": "Malawi",
     "awayTeam": "Burkina Faso",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "12.11.2020",
     "homeTeam": "Burkina Faso",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "11.10.2020",
     "homeTeam": "Malawi",
     "awayTeam": "Zimbabwe",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "07.10.2020",
     "homeTeam": "Zambia",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "12.03.2020",
     "homeTeam": "Malawi",
     "awayTeam": "Zambia",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "17.11.2019",
     "homeTeam": "Uganda",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "13.11.2019",
     "homeTeam": "Malawi",
     "awayTeam": "South Sudan",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "13.10.2019",
     "homeTeam": "Lesotho",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "10.09.2019",
     "homeTeam": "Malawi",
     "awayTeam": "Botswana",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "07.09.2019",
     "homeTeam": "Botswana",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "07.06.2019Pen",
     "homeTeam": "South Africa",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup - 5th-8th places - Play Offs"
   },
   {
     "date": "04.06.2019",
     "homeTeam": "Comoros",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup - 5th-8th places - Play Offs"
   },
   {
     "date": "02.06.2019Pen",
     "homeTeam": "Zambia",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup - Play Offs"
   },
   {
     "date": "30.05.2019",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "28.05.2019",
     "homeTeam": "Namibia",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "26.05.2019",
     "homeTeam": "Malawi",
     "awayTeam": "Seychelles",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "11.05.2019",
     "homeTeam": "Malawi",
     "awayTeam": "Eswatini",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "20.04.2019",
     "homeTeam": "Eswatini",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "22.03.2019",
     "homeTeam": "Malawi",
     "awayTeam": "Morocco",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "17.11.2018",
     "homeTeam": "Comoros",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "16.10.2018",
     "homeTeam": "Malawi",
     "awayTeam": "Cameroon",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "12.10.2018",
     "homeTeam": "Cameroon",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "11.09.2018",
     "homeTeam": "Kenya",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "08.09.2018",
     "homeTeam": "Morocco",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "01.06.2018",
     "homeTeam": "Angola",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "30.05.2018",
     "homeTeam": "Malawi",
     "awayTeam": "Botswana",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "28.05.2018",
     "homeTeam": "Mauritius",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "27.03.2018",
     "homeTeam": "Uganda",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "11.11.2017",
     "homeTeam": "Malawi",
     "awayTeam": "Lesotho",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "07.10.2017",
     "homeTeam": "Tanzania",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "04.09.2017",
     "homeTeam": "Togo",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "29.06.2017",
     "homeTeam": "Malawi",
     "awayTeam": "Angola",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "27.06.2017",
     "homeTeam": "Malawi",
     "awayTeam": "Mauritius",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "25.06.2017",
     "homeTeam": "Tanzania",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "10.06.2017",
     "homeTeam": "Malawi",
     "awayTeam": "Comoros",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "29.04.2017",
     "homeTeam": "Malawi",
     "awayTeam": "Madagascar",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "22.04.2017",
     "homeTeam": "Madagascar",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "African Nations Championship - Qualification"
   },
   {
     "date": "18.04.2017",
     "homeTeam": "Kenya",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "04.09.2016",
     "homeTeam": "Malawi",
     "awayTeam": "Eswatini",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "16.06.2016",
     "homeTeam": "Malawi",
     "awayTeam": "Lesotho",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "14.06.2016",
     "homeTeam": "Mauritius",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "12.06.2016",
     "homeTeam": "Malawi",
     "awayTeam": "Angola",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "COSAFA Cup"
   },
   {
     "date": "08.06.2016",
     "homeTeam": "Namibia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "05.06.2016",
     "homeTeam": "Zimbabwe",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "29.03.2016",
     "homeTeam": "Malawi",
     "awayTeam": "Guinea",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "25.03.2016",
     "homeTeam": "Guinea",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "30.11.2015",
     "homeTeam": "Uganda",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "CECAFA Championship - Play Offs"
   },
   {
     "date": "27.11.2015",
     "homeTeam": "South Sudan",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "CECAFA Championship"
   },
   {
     "date": "25.11.2015",
     "homeTeam": "Malawi",
     "awayTeam": "Djibouti",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "CECAFA Championship"
   },
   {
     "date": "23.11.2015",
     "homeTeam": "Sudan",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "CECAFA Championship"
   },
   {
     "date": "11.10.2015",
     "homeTeam": "Malawi",
     "awayTeam": "Tanzania",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "07.10.2015",
     "homeTeam": "Tanzania",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - First stage"
   },
   {
     "date": "06.09.2015",
     "homeTeam": "Eswatini",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "06.07.2015",
     "homeTeam": "Malawi",
     "awayTeam": "Uganda",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "13.06.2015",
     "homeTeam": "Malawi",
     "awayTeam": "Zimbabwe",
     "homeScore": 1,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "08.06.2015",
     "homeTeam": "Egypt",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "29.05.2015",
     "homeTeam": "Zambia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup - 5th-8th places - Play Offs"
   },
   {
     "date": "27.05.2015Pen",
     "homeTeam": "South Africa",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "COSAFA Cup - 5th-8th places - Play Offs"
   },
   {
     "date": "25.05.2015Pen",
     "homeTeam": "Mozambique",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "COSAFA Cup - Play Offs"
   },
   {
     "date": "22.05.2015",
     "homeTeam": "South Africa",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "10.05.2015",
     "homeTeam": "Zambia",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Friendly International"
   },
   {
     "date": "29.03.2015",
     "homeTeam": "Tanzania",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "19.11.2014",
     "homeTeam": "Ethiopia",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "15.11.2014",
     "homeTeam": "Malawi",
     "awayTeam": "Mali",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "15.10.2014",
     "homeTeam": "Algeria",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "11.10.2014",
     "homeTeam": "Malawi",
     "awayTeam": "Algeria",
     "homeScore": 0,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "10.09.2014",
     "homeTeam": "Malawi",
     "awayTeam": "Ethiopia",
     "homeScore": 3,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "07.09.2014",
     "homeTeam": "Mali",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification"
   },
   {
     "date": "02.08.2014Pen",
     "homeTeam": "Malawi",
     "awayTeam": "Benin",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification - First round"
   },
   {
     "date": "20.07.2014",
     "homeTeam": "Benin",
     "awayTeam": "Malawi",
     "homeScore": 1,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification - First round"
   },
   {
     "date": "31.05.2014",
     "homeTeam": "Chad",
     "awayTeam": "Malawi",
     "homeScore": 3,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Qualification - First round"
   },
   {
     "date": "17.05.2014",
     "homeTeam": "Malawi",
     "awayTeam": "Chad",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "Africa Cup of Nations - Qualification - First round"
   },
   {
     "date": "07.09.2013",
     "homeTeam": "Nigeria",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 0
+    "awayScore": 0,
+    "competition": "World Championship - Qualification - Second stage"
   },
   {
     "date": "14.08.2013",
     "homeTeam": "Rwanda",
     "awayTeam": "Malawi",
     "homeScore": 0,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Friendly International"
   },
   {
     "date": "16.07.2013",
     "homeTeam": "Malawi",
     "awayTeam": "Angola",
     "homeScore": 2,
-    "awayScore": 3
+    "awayScore": 3,
+    "competition": "COSAFA Cup - 5th-8th places - Play Offs"
   },
   {
     "date": "13.07.2013Pen",
     "homeTeam": "Zimbabwe",
     "awayTeam": "Malawi",
     "homeScore": 2,
-    "awayScore": 1
+    "awayScore": 1,
+    "competition": "Africa Cup of Nations - Play Offs"
   },
   {
     "date": "12.06.2013",
     "homeTeam": "Malawi",
     "awayTeam": "Kenya",
     "homeScore": 2,
-    "awayScore": 2
+    "awayScore": 2,
+    "competition": "World Championship - Qualification - Second stage"
   }
 ]

@@ -1,0 +1,147 @@
+[
+    {
+        "name": "R. Saizi",
+        "league_Team": "",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Senior National Team",
+                "against": "uganda",
+                "minute": 23,
+                "date": "09/09/23",
+                "competition": "Africa Cup of Nations Qualification",
+                "assist": ""
+            }
+        ],
+        "assists": [
+            {
+                "competition": "Africa Cup of Nations Qualification",
+                "minute": 88,
+                "date": "09/09/23",
+                "goal": "L. Chaziya"
+            }
+        ]
+    },
+    {
+        "name": "L. Chaziya",
+        "league_Team": "",
+        "team_League_position": "",
+        "previuos_teams": "",
+        "goals": [
+            {
+                "team": "Senior National Team",
+                "against": "uganda",
+                "minute": 88,
+                "date": "09/09/23",
+                "competition": "Africa Cup of Nations Qualification",
+                "assist": "R. Saizi"
+            }
+        ]
+    },
+    {
+        "name": "C. Mphasi",
+        "league_Team": "",
+        "team_League_position": "",
+        "previuos_teams": "",
+        "goals": [
+            {
+                "team": "Senior National Team",
+                "against": "liberia",
+                "minute": 78,
+                "date": "17/11/23",
+                "competition": "CAF World Cup Qualifiers"
+            }
+        ]
+    },
+    {
+        "name": "I. Msiska",
+        "league_Team": "Mzuzu City Hammers",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Mzuzu City Hammers",
+                "against": "Kamuzu Barracks",
+                "minute": 44,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    },
+    {
+        "name": "U. Vunga",
+        "league_Team": "Silver Strikers",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Silver Strikers",
+                "against": "Creck Sporting",
+                "minute": 45,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    },
+    {
+        "name": "C. Idana",
+        "league_Team": "Silver Strikers",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Silver Strikers",
+                "against": "Creck Sporting",
+                "minute": 61,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    },
+    {
+        "name": "Kelvin Banda",
+        "league_Team": "Mighty Tigers",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Mighty Tigers",
+                "against": "Dedza Dynamos",
+                "minute": 68,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    },
+    {
+        "name": "M. Msewa ",
+        "league_Team": "Mighty Tigers",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Dedza Dynamos",
+                "against": "Mighty Tigers",
+                "minute": 90,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    },
+    {
+        "name": "C. Chimulambe",
+        "league_Team": "Moyale Barracks",
+        "team_League_position": "",
+        "previuos_teams": [],
+        "goals": [
+            {
+                "team": "Moyale Barracks",
+                "against": "Mighty Tigers",
+                "minute": 90,
+                "date": "Sunday, 12 May 2024",
+                "competition": "TNM Super League"
+            }
+        ]
+    }
+]
